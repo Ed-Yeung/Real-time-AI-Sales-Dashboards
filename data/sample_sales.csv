@@ -1,0 +1,1417 @@
+date,year,month,weekday,region,category,sales,cost,units,orders
+2026-07-01,2026,7,Wed,Kowloon,Beverage,5497,3738,196,64
+2026-07-01,2026,7,Wed,Kowloon,Snacks,2267,1587,81,26
+2026-07-01,2026,7,Wed,Kowloon,Household,2011,1448,72,23
+2026-07-01,2026,7,Wed,Kowloon,Fresh,2745,2059,98,32
+2026-07-01,2026,7,Wed,Hong Kong Island,Beverage,3745,2547,134,44
+2026-07-01,2026,7,Wed,Hong Kong Island,Snacks,2587,1811,92,30
+2026-07-01,2026,7,Wed,Hong Kong Island,Household,2201,1585,79,26
+2026-07-01,2026,7,Wed,Hong Kong Island,Fresh,3072,2304,110,36
+2026-07-01,2026,7,Wed,New Territories,Beverage,3381,2299,121,39
+2026-07-01,2026,7,Wed,New Territories,Snacks,1891,1324,68,22
+2026-07-01,2026,7,Wed,New Territories,Household,1703,1226,61,20
+2026-07-01,2026,7,Wed,New Territories,Fresh,2520,1890,90,29
+2026-07-02,2026,7,Thu,Kowloon,Beverage,5246,3567,187,61
+2026-07-02,2026,7,Thu,Kowloon,Snacks,2306,1614,82,27
+2026-07-02,2026,7,Thu,Kowloon,Household,1951,1405,70,23
+2026-07-02,2026,7,Thu,Kowloon,Fresh,2718,2038,97,32
+2026-07-02,2026,7,Thu,Hong Kong Island,Beverage,3985,2710,142,46
+2026-07-02,2026,7,Thu,Hong Kong Island,Snacks,2577,1804,92,30
+2026-07-02,2026,7,Thu,Hong Kong Island,Household,2274,1637,81,26
+2026-07-02,2026,7,Thu,Hong Kong Island,Fresh,3143,2357,112,37
+2026-07-02,2026,7,Thu,New Territories,Beverage,3428,2331,122,40
+2026-07-02,2026,7,Thu,New Territories,Snacks,1864,1305,67,22
+2026-07-02,2026,7,Thu,New Territories,Household,1712,1233,61,20
+2026-07-02,2026,7,Thu,New Territories,Fresh,2551,1913,91,30
+2026-07-03,2026,7,Fri,Kowloon,Beverage,5325,3621,190,62
+2026-07-03,2026,7,Fri,Kowloon,Snacks,2251,1576,80,26
+2026-07-03,2026,7,Fri,Kowloon,Household,1915,1379,68,22
+2026-07-03,2026,7,Fri,Kowloon,Fresh,2847,2135,102,33
+2026-07-03,2026,7,Fri,Hong Kong Island,Beverage,3943,2681,141,46
+2026-07-03,2026,7,Fri,Hong Kong Island,Snacks,2527,1769,90,29
+2026-07-03,2026,7,Fri,Hong Kong Island,Household,2159,1554,77,25
+2026-07-03,2026,7,Fri,Hong Kong Island,Fresh,3077,2308,110,36
+2026-07-03,2026,7,Fri,New Territories,Beverage,3246,2207,116,38
+2026-07-03,2026,7,Fri,New Territories,Snacks,1979,1385,71,23
+2026-07-03,2026,7,Fri,New Territories,Household,1706,1228,61,20
+2026-07-03,2026,7,Fri,New Territories,Fresh,2578,1934,92,30
+2026-07-04,2026,7,Sat,Kowloon,Beverage,5881,3999,210,68
+2026-07-04,2026,7,Sat,Kowloon,Snacks,2346,1642,84,27
+2026-07-04,2026,7,Sat,Kowloon,Household,2130,1534,76,25
+2026-07-04,2026,7,Sat,Kowloon,Fresh,2981,2236,106,35
+2026-07-04,2026,7,Sat,Hong Kong Island,Beverage,4357,2963,156,51
+2026-07-04,2026,7,Sat,Hong Kong Island,Snacks,2652,1856,95,31
+2026-07-04,2026,7,Sat,Hong Kong Island,Household,2500,1800,89,29
+2026-07-04,2026,7,Sat,Hong Kong Island,Fresh,3222,2416,115,37
+2026-07-04,2026,7,Sat,New Territories,Beverage,3642,2477,130,42
+2026-07-04,2026,7,Sat,New Territories,Snacks,2069,1448,74,24
+2026-07-04,2026,7,Sat,New Territories,Household,1791,1290,64,21
+2026-07-04,2026,7,Sat,New Territories,Fresh,2705,2029,97,31
+2026-07-05,2026,7,Sun,Kowloon,Beverage,5776,3928,206,67
+2026-07-05,2026,7,Sun,Kowloon,Snacks,2397,1678,86,28
+2026-07-05,2026,7,Sun,Kowloon,Household,2148,1547,77,25
+2026-07-05,2026,7,Sun,Kowloon,Fresh,3002,2252,107,35
+2026-07-05,2026,7,Sun,Hong Kong Island,Beverage,4144,2818,148,48
+2026-07-05,2026,7,Sun,Hong Kong Island,Snacks,2785,1949,99,32
+2026-07-05,2026,7,Sun,Hong Kong Island,Household,2347,1690,84,27
+2026-07-05,2026,7,Sun,Hong Kong Island,Fresh,3314,2486,118,39
+2026-07-05,2026,7,Sun,New Territories,Beverage,3567,2426,127,41
+2026-07-05,2026,7,Sun,New Territories,Snacks,2098,1469,75,24
+2026-07-05,2026,7,Sun,New Territories,Household,1734,1248,62,20
+2026-07-05,2026,7,Sun,New Territories,Fresh,2781,2086,99,32
+2026-07-06,2026,7,Mon,Kowloon,Beverage,5427,3690,194,63
+2026-07-06,2026,7,Mon,Kowloon,Snacks,2158,1511,77,25
+2026-07-06,2026,7,Mon,Kowloon,Household,1915,1379,68,22
+2026-07-06,2026,7,Mon,Kowloon,Fresh,2713,2035,97,32
+2026-07-06,2026,7,Mon,Hong Kong Island,Beverage,3831,2605,137,45
+2026-07-06,2026,7,Mon,Hong Kong Island,Snacks,2444,1711,87,28
+2026-07-06,2026,7,Mon,Hong Kong Island,Household,2187,1575,78,25
+2026-07-06,2026,7,Mon,Hong Kong Island,Fresh,3118,2338,111,36
+2026-07-06,2026,7,Mon,New Territories,Beverage,3348,2277,120,39
+2026-07-06,2026,7,Mon,New Territories,Snacks,1909,1336,68,22
+2026-07-06,2026,7,Mon,New Territories,Household,1644,1184,59,19
+2026-07-06,2026,7,Mon,New Territories,Fresh,2525,1894,90,29
+2026-07-07,2026,7,Tue,Kowloon,Beverage,5469,3719,195,64
+2026-07-07,2026,7,Tue,Kowloon,Snacks,2304,1613,82,27
+2026-07-07,2026,7,Tue,Kowloon,Household,1896,1365,68,22
+2026-07-07,2026,7,Tue,Kowloon,Fresh,2875,2156,103,33
+2026-07-07,2026,7,Tue,Hong Kong Island,Beverage,3897,2650,139,45
+2026-07-07,2026,7,Tue,Hong Kong Island,Snacks,2602,1821,93,30
+2026-07-07,2026,7,Tue,Hong Kong Island,Household,2264,1630,81,26
+2026-07-07,2026,7,Tue,Hong Kong Island,Fresh,2981,2236,106,35
+2026-07-07,2026,7,Tue,New Territories,Beverage,3181,2163,114,37
+2026-07-07,2026,7,Tue,New Territories,Snacks,1986,1390,71,23
+2026-07-07,2026,7,Tue,New Territories,Household,1622,1168,58,19
+2026-07-07,2026,7,Tue,New Territories,Fresh,2545,1909,91,30
+2026-07-08,2026,7,Wed,Kowloon,Beverage,5257,3575,188,61
+2026-07-08,2026,7,Wed,Kowloon,Snacks,2242,1569,80,26
+2026-07-08,2026,7,Wed,Kowloon,Household,1926,1387,69,22
+2026-07-08,2026,7,Wed,Kowloon,Fresh,2804,2103,100,33
+2026-07-08,2026,7,Wed,Hong Kong Island,Beverage,3726,2534,133,43
+2026-07-08,2026,7,Wed,Hong Kong Island,Snacks,2602,1821,93,30
+2026-07-08,2026,7,Wed,Hong Kong Island,Household,2292,1650,82,27
+2026-07-08,2026,7,Wed,Hong Kong Island,Fresh,3164,2373,113,37
+2026-07-08,2026,7,Wed,New Territories,Beverage,3330,2264,119,39
+2026-07-08,2026,7,Wed,New Territories,Snacks,1898,1329,68,22
+2026-07-08,2026,7,Wed,New Territories,Household,1608,1158,57,19
+2026-07-08,2026,7,Wed,New Territories,Fresh,2590,1942,92,30
+2026-07-09,2026,7,Thu,Kowloon,Beverage,5358,3643,191,62
+2026-07-09,2026,7,Thu,Kowloon,Snacks,2210,1547,79,26
+2026-07-09,2026,7,Thu,Kowloon,Household,1999,1439,71,23
+2026-07-09,2026,7,Thu,Kowloon,Fresh,2778,2084,99,32
+2026-07-09,2026,7,Thu,Hong Kong Island,Beverage,4033,2742,144,47
+2026-07-09,2026,7,Thu,Hong Kong Island,Snacks,2458,1721,88,29
+2026-07-09,2026,7,Thu,Hong Kong Island,Household,2294,1652,82,27
+2026-07-09,2026,7,Thu,Hong Kong Island,Fresh,3053,2290,109,36
+2026-07-09,2026,7,Thu,New Territories,Beverage,3202,2177,114,37
+2026-07-09,2026,7,Thu,New Territories,Snacks,1934,1354,69,22
+2026-07-09,2026,7,Thu,New Territories,Household,1692,1218,60,20
+2026-07-09,2026,7,Thu,New Territories,Fresh,2442,1832,87,28
+2026-07-10,2026,7,Fri,Kowloon,Beverage,5473,3722,195,64
+2026-07-10,2026,7,Fri,Kowloon,Snacks,2295,1606,82,27
+2026-07-10,2026,7,Fri,Kowloon,Household,1867,1344,67,22
+2026-07-10,2026,7,Fri,Kowloon,Fresh,2811,2108,100,33
+2026-07-10,2026,7,Fri,Hong Kong Island,Beverage,3822,2599,136,44
+2026-07-10,2026,7,Fri,Hong Kong Island,Snacks,2515,1760,90,29
+2026-07-10,2026,7,Fri,Hong Kong Island,Household,2290,1649,82,27
+2026-07-10,2026,7,Fri,Hong Kong Island,Fresh,3088,2316,110,36
+2026-07-10,2026,7,Fri,New Territories,Beverage,3246,2207,116,38
+2026-07-10,2026,7,Fri,New Territories,Snacks,1894,1326,68,22
+2026-07-10,2026,7,Fri,New Territories,Household,1691,1218,60,20
+2026-07-10,2026,7,Fri,New Territories,Fresh,2451,1838,88,28
+2026-07-11,2026,7,Sat,Kowloon,Beverage,5968,4058,213,69
+2026-07-11,2026,7,Sat,Kowloon,Snacks,2505,1754,89,29
+2026-07-11,2026,7,Sat,Kowloon,Household,2127,1531,76,25
+2026-07-11,2026,7,Sat,Kowloon,Fresh,3136,2352,112,36
+2026-07-11,2026,7,Sat,Hong Kong Island,Beverage,4065,2764,145,47
+2026-07-11,2026,7,Sat,Hong Kong Island,Snacks,2747,1923,98,32
+2026-07-11,2026,7,Sat,Hong Kong Island,Household,2430,1750,87,28
+2026-07-11,2026,7,Sat,Hong Kong Island,Fresh,3239,2429,116,38
+2026-07-11,2026,7,Sat,New Territories,Beverage,3543,2409,127,41
+2026-07-11,2026,7,Sat,New Territories,Snacks,2063,1444,74,24
+2026-07-11,2026,7,Sat,New Territories,Household,1728,1244,62,20
+2026-07-11,2026,7,Sat,New Territories,Fresh,2702,2026,96,31
+2026-07-12,2026,7,Sun,Kowloon,Beverage,5673,3858,203,66
+2026-07-12,2026,7,Sun,Kowloon,Snacks,2490,1743,89,29
+2026-07-12,2026,7,Sun,Kowloon,Household,2039,1468,73,24
+2026-07-12,2026,7,Sun,Kowloon,Fresh,3049,2287,109,35
+2026-07-12,2026,7,Sun,Hong Kong Island,Beverage,4261,2897,152,50
+2026-07-12,2026,7,Sun,Hong Kong Island,Snacks,2619,1833,94,30
+2026-07-12,2026,7,Sun,Hong Kong Island,Household,2495,1796,89,29
+2026-07-12,2026,7,Sun,Hong Kong Island,Fresh,3465,2599,124,40
+2026-07-12,2026,7,Sun,New Territories,Beverage,3585,2438,128,42
+2026-07-12,2026,7,Sun,New Territories,Snacks,2099,1469,75,24
+2026-07-12,2026,7,Sun,New Territories,Household,1831,1318,65,21
+2026-07-12,2026,7,Sun,New Territories,Fresh,2746,2060,98,32
+2026-07-13,2026,7,Mon,Kowloon,Beverage,5311,3611,190,62
+2026-07-13,2026,7,Mon,Kowloon,Snacks,2308,1616,82,27
+2026-07-13,2026,7,Mon,Kowloon,Household,1894,1364,68,22
+2026-07-13,2026,7,Mon,Kowloon,Fresh,2826,2120,101,33
+2026-07-13,2026,7,Mon,Hong Kong Island,Beverage,3894,2648,139,45
+2026-07-13,2026,7,Mon,Hong Kong Island,Snacks,2576,1803,92,30
+2026-07-13,2026,7,Mon,Hong Kong Island,Household,2207,1589,79,26
+2026-07-13,2026,7,Mon,Hong Kong Island,Fresh,3137,2353,112,36
+2026-07-13,2026,7,Mon,New Territories,Beverage,3221,2190,115,37
+2026-07-13,2026,7,Mon,New Territories,Snacks,1970,1379,70,23
+2026-07-13,2026,7,Mon,New Territories,Household,1604,1155,57,19
+2026-07-13,2026,7,Mon,New Territories,Fresh,2492,1869,89,29
+2026-07-14,2026,7,Tue,Kowloon,Beverage,5441,3700,194,63
+2026-07-14,2026,7,Tue,Kowloon,Snacks,2271,1590,81,26
+2026-07-14,2026,7,Tue,Kowloon,Household,2003,1442,72,23
+2026-07-14,2026,7,Tue,Kowloon,Fresh,2917,2188,104,34
+2026-07-14,2026,7,Tue,Hong Kong Island,Beverage,3871,2632,138,45
+2026-07-14,2026,7,Tue,Hong Kong Island,Snacks,2434,1704,87,28
+2026-07-14,2026,7,Tue,Hong Kong Island,Household,2248,1619,80,26
+2026-07-14,2026,7,Tue,Hong Kong Island,Fresh,3124,2343,112,36
+2026-07-14,2026,7,Tue,New Territories,Beverage,3360,2285,120,39
+2026-07-14,2026,7,Tue,New Territories,Snacks,1870,1309,67,22
+2026-07-14,2026,7,Tue,New Territories,Household,1688,1215,60,20
+2026-07-14,2026,7,Tue,New Territories,Fresh,2447,1835,87,28
+2026-07-15,2026,7,Wed,Kowloon,Beverage,5576,3792,199,65
+2026-07-15,2026,7,Wed,Kowloon,Snacks,2317,1622,83,27
+2026-07-15,2026,7,Wed,Kowloon,Household,1947,1402,70,23
+2026-07-15,2026,7,Wed,Kowloon,Fresh,2801,2101,100,33
+2026-07-15,2026,7,Wed,Hong Kong Island,Beverage,3929,2672,140,46
+2026-07-15,2026,7,Wed,Hong Kong Island,Snacks,2448,1714,87,28
+2026-07-15,2026,7,Wed,Hong Kong Island,Household,2259,1626,81,26
+2026-07-15,2026,7,Wed,Hong Kong Island,Fresh,3191,2393,114,37
+2026-07-15,2026,7,Wed,New Territories,Beverage,3413,2321,122,40
+2026-07-15,2026,7,Wed,New Territories,Snacks,1971,1380,70,23
+2026-07-15,2026,7,Wed,New Territories,Household,1678,1208,60,20
+2026-07-15,2026,7,Wed,New Territories,Fresh,2616,1962,93,30
+2026-07-16,2026,7,Thu,Kowloon,Beverage,5381,3659,192,63
+2026-07-16,2026,7,Thu,Kowloon,Snacks,2202,1541,79,26
+2026-07-16,2026,7,Thu,Kowloon,Household,2016,1452,72,23
+2026-07-16,2026,7,Thu,Kowloon,Fresh,2715,2036,97,32
+2026-07-16,2026,7,Thu,Hong Kong Island,Beverage,3832,2606,137,45
+2026-07-16,2026,7,Thu,Hong Kong Island,Snacks,2571,1800,92,30
+2026-07-16,2026,7,Thu,Hong Kong Island,Household,2310,1663,82,27
+2026-07-16,2026,7,Thu,Hong Kong Island,Fresh,3178,2384,114,37
+2026-07-16,2026,7,Thu,New Territories,Beverage,3216,2187,115,37
+2026-07-16,2026,7,Thu,New Territories,Snacks,1986,1390,71,23
+2026-07-16,2026,7,Thu,New Territories,Household,1612,1161,58,19
+2026-07-16,2026,7,Thu,New Territories,Fresh,2528,1896,90,29
+2026-07-17,2026,7,Fri,Kowloon,Beverage,5482,3728,196,64
+2026-07-17,2026,7,Fri,Kowloon,Snacks,2317,1622,83,27
+2026-07-17,2026,7,Fri,Kowloon,Household,1897,1366,68,22
+2026-07-17,2026,7,Fri,Kowloon,Fresh,2779,2084,99,32
+2026-07-17,2026,7,Fri,Hong Kong Island,Beverage,3820,2598,136,44
+2026-07-17,2026,7,Fri,Hong Kong Island,Snacks,2481,1737,89,29
+2026-07-17,2026,7,Fri,Hong Kong Island,Household,2171,1563,78,25
+2026-07-17,2026,7,Fri,Hong Kong Island,Fresh,3080,2310,110,36
+2026-07-17,2026,7,Fri,New Territories,Beverage,3236,2200,116,38
+2026-07-17,2026,7,Fri,New Territories,Snacks,1903,1332,68,22
+2026-07-17,2026,7,Fri,New Territories,Household,1693,1219,60,20
+2026-07-17,2026,7,Fri,New Territories,Fresh,2443,1832,87,28
+2026-07-18,2026,7,Sat,Kowloon,Beverage,5849,3977,209,68
+2026-07-18,2026,7,Sat,Kowloon,Snacks,2321,1625,83,27
+2026-07-18,2026,7,Sat,Kowloon,Household,2021,1455,72,24
+2026-07-18,2026,7,Sat,Kowloon,Fresh,3123,2342,112,36
+2026-07-18,2026,7,Sat,Hong Kong Island,Beverage,4286,2914,153,50
+2026-07-18,2026,7,Sat,Hong Kong Island,Snacks,2817,1972,101,33
+2026-07-18,2026,7,Sat,Hong Kong Island,Household,2334,1680,83,27
+2026-07-18,2026,7,Sat,Hong Kong Island,Fresh,3427,2570,122,40
+2026-07-18,2026,7,Sat,New Territories,Beverage,3504,2383,125,41
+2026-07-18,2026,7,Sat,New Territories,Snacks,2144,1501,77,25
+2026-07-18,2026,7,Sat,New Territories,Household,1790,1289,64,21
+2026-07-18,2026,7,Sat,New Territories,Fresh,2709,2032,97,32
+2026-07-19,2026,7,Sun,Kowloon,Beverage,5923,4028,212,69
+2026-07-19,2026,7,Sun,Kowloon,Snacks,2363,1654,84,27
+2026-07-19,2026,7,Sun,Kowloon,Household,2101,1513,75,24
+2026-07-19,2026,7,Sun,Kowloon,Fresh,3121,2341,111,36
+2026-07-19,2026,7,Sun,Hong Kong Island,Beverage,4239,2883,151,49
+2026-07-19,2026,7,Sun,Hong Kong Island,Snacks,2779,1945,99,32
+2026-07-19,2026,7,Sun,Hong Kong Island,Household,2499,1799,89,29
+2026-07-19,2026,7,Sun,Hong Kong Island,Fresh,3251,2438,116,38
+2026-07-19,2026,7,Sun,New Territories,Beverage,3640,2475,130,42
+2026-07-19,2026,7,Sun,New Territories,Snacks,2172,1520,78,25
+2026-07-19,2026,7,Sun,New Territories,Household,1787,1287,64,21
+2026-07-19,2026,7,Sun,New Territories,Fresh,2688,2016,96,31
+2026-07-20,2026,7,Mon,Kowloon,Beverage,5492,3735,196,64
+2026-07-20,2026,7,Mon,Kowloon,Snacks,2161,1513,77,25
+2026-07-20,2026,7,Mon,Kowloon,Household,1980,1426,71,23
+2026-07-20,2026,7,Mon,Kowloon,Fresh,2868,2151,102,33
+2026-07-20,2026,7,Mon,Hong Kong Island,Beverage,3732,2538,133,43
+2026-07-20,2026,7,Mon,Hong Kong Island,Snacks,2529,1770,90,29
+2026-07-20,2026,7,Mon,Hong Kong Island,Household,2230,1606,80,26
+2026-07-20,2026,7,Mon,Hong Kong Island,Fresh,3162,2372,113,37
+2026-07-20,2026,7,Mon,New Territories,Beverage,3278,2229,117,38
+2026-07-20,2026,7,Mon,New Territories,Snacks,1876,1313,67,22
+2026-07-20,2026,7,Mon,New Territories,Household,1586,1142,57,18
+2026-07-20,2026,7,Mon,New Territories,Fresh,2478,1858,88,29
+2026-07-21,2026,7,Tue,Kowloon,Beverage,5256,3574,188,61
+2026-07-21,2026,7,Tue,Kowloon,Snacks,2174,1522,78,25
+2026-07-21,2026,7,Tue,Kowloon,Household,1957,1409,70,23
+2026-07-21,2026,7,Tue,Kowloon,Fresh,2900,2175,104,34
+2026-07-21,2026,7,Tue,Hong Kong Island,Beverage,3780,2570,135,44
+2026-07-21,2026,7,Tue,Hong Kong Island,Snacks,2534,1774,90,29
+2026-07-21,2026,7,Tue,Hong Kong Island,Household,2229,1605,80,26
+2026-07-21,2026,7,Tue,Hong Kong Island,Fresh,3140,2355,112,37
+2026-07-21,2026,7,Tue,New Territories,Beverage,3419,2325,122,40
+2026-07-21,2026,7,Tue,New Territories,Snacks,1920,1344,69,22
+2026-07-21,2026,7,Tue,New Territories,Household,1660,1195,59,19
+2026-07-21,2026,7,Tue,New Territories,Fresh,2520,1890,90,29
+2026-07-22,2026,7,Wed,Kowloon,Beverage,5280,3590,189,61
+2026-07-22,2026,7,Wed,Kowloon,Snacks,2225,1558,79,26
+2026-07-22,2026,7,Wed,Kowloon,Household,2013,1449,72,23
+2026-07-22,2026,7,Wed,Kowloon,Fresh,2867,2150,102,33
+2026-07-22,2026,7,Wed,Hong Kong Island,Beverage,3787,2575,135,44
+2026-07-22,2026,7,Wed,Hong Kong Island,Snacks,2488,1742,89,29
+2026-07-22,2026,7,Wed,Hong Kong Island,Household,2176,1567,78,25
+2026-07-22,2026,7,Wed,Hong Kong Island,Fresh,3082,2312,110,36
+2026-07-22,2026,7,Wed,New Territories,Beverage,3288,2236,117,38
+2026-07-22,2026,7,Wed,New Territories,Snacks,1883,1318,67,22
+2026-07-22,2026,7,Wed,New Territories,Household,1640,1181,59,19
+2026-07-22,2026,7,Wed,New Territories,Fresh,2620,1965,94,30
+2026-07-23,2026,7,Thu,Kowloon,Beverage,5385,3662,192,63
+2026-07-23,2026,7,Thu,Kowloon,Snacks,2256,1579,81,26
+2026-07-23,2026,7,Thu,Kowloon,Household,2014,1450,72,23
+2026-07-23,2026,7,Thu,Kowloon,Fresh,2787,2090,100,32
+2026-07-23,2026,7,Thu,Hong Kong Island,Beverage,3831,2605,137,45
+2026-07-23,2026,7,Thu,Hong Kong Island,Snacks,2509,1756,90,29
+2026-07-23,2026,7,Thu,Hong Kong Island,Household,2170,1562,78,25
+2026-07-23,2026,7,Thu,Hong Kong Island,Fresh,2997,2248,107,35
+2026-07-23,2026,7,Thu,New Territories,Beverage,3203,2178,114,37
+2026-07-23,2026,7,Thu,New Territories,Snacks,1969,1378,70,23
+2026-07-23,2026,7,Thu,New Territories,Household,1686,1214,60,20
+2026-07-23,2026,7,Thu,New Territories,Fresh,2577,1933,92,30
+2026-07-24,2026,7,Fri,Kowloon,Beverage,5276,3588,188,61
+2026-07-24,2026,7,Fri,Kowloon,Snacks,2192,1534,78,25
+2026-07-24,2026,7,Fri,Kowloon,Household,2004,1443,72,23
+2026-07-24,2026,7,Fri,Kowloon,Fresh,2863,2147,102,33
+2026-07-24,2026,7,Fri,Hong Kong Island,Beverage,3846,2615,137,45
+2026-07-24,2026,7,Fri,Hong Kong Island,Snacks,2572,1800,92,30
+2026-07-24,2026,7,Fri,Hong Kong Island,Household,2190,1577,78,25
+2026-07-24,2026,7,Fri,Hong Kong Island,Fresh,3003,2252,107,35
+2026-07-24,2026,7,Fri,New Territories,Beverage,3405,2315,122,40
+2026-07-24,2026,7,Fri,New Territories,Snacks,1996,1397,71,23
+2026-07-24,2026,7,Fri,New Territories,Household,1648,1187,59,19
+2026-07-24,2026,7,Fri,New Territories,Fresh,2506,1880,90,29
+2026-07-25,2026,7,Sat,Kowloon,Beverage,6061,4121,216,70
+2026-07-25,2026,7,Sat,Kowloon,Snacks,2421,1695,86,28
+2026-07-25,2026,7,Sat,Kowloon,Household,2174,1565,78,25
+2026-07-25,2026,7,Sat,Kowloon,Fresh,2919,2189,104,34
+2026-07-25,2026,7,Sat,Hong Kong Island,Beverage,4240,2883,151,49
+2026-07-25,2026,7,Sat,Hong Kong Island,Snacks,2670,1869,95,31
+2026-07-25,2026,7,Sat,Hong Kong Island,Household,2451,1765,88,28
+2026-07-25,2026,7,Sat,Hong Kong Island,Fresh,3465,2599,124,40
+2026-07-25,2026,7,Sat,New Territories,Beverage,3425,2329,122,40
+2026-07-25,2026,7,Sat,New Territories,Snacks,2124,1487,76,25
+2026-07-25,2026,7,Sat,New Territories,Household,1826,1315,65,21
+2026-07-25,2026,7,Sat,New Territories,Fresh,2720,2040,97,32
+2026-07-26,2026,7,Sun,Kowloon,Beverage,5689,3869,203,66
+2026-07-26,2026,7,Sun,Kowloon,Snacks,2409,1686,86,28
+2026-07-26,2026,7,Sun,Kowloon,Household,2128,1532,76,25
+2026-07-26,2026,7,Sun,Kowloon,Fresh,3047,2285,109,35
+2026-07-26,2026,7,Sun,Hong Kong Island,Beverage,4212,2864,150,49
+2026-07-26,2026,7,Sun,Hong Kong Island,Snacks,2685,1879,96,31
+2026-07-26,2026,7,Sun,Hong Kong Island,Household,2376,1711,85,28
+2026-07-26,2026,7,Sun,Hong Kong Island,Fresh,3284,2463,117,38
+2026-07-26,2026,7,Sun,New Territories,Beverage,3627,2466,130,42
+2026-07-26,2026,7,Sun,New Territories,Snacks,2013,1409,72,23
+2026-07-26,2026,7,Sun,New Territories,Household,1795,1292,64,21
+2026-07-26,2026,7,Sun,New Territories,Fresh,2760,2070,99,32
+2026-07-27,2026,7,Mon,Kowloon,Beverage,5409,3678,193,63
+2026-07-27,2026,7,Mon,Kowloon,Snacks,2217,1552,79,26
+2026-07-27,2026,7,Mon,Kowloon,Household,1983,1428,71,23
+2026-07-27,2026,7,Mon,Kowloon,Fresh,2814,2110,100,33
+2026-07-27,2026,7,Mon,Hong Kong Island,Beverage,3743,2545,134,44
+2026-07-27,2026,7,Mon,Hong Kong Island,Snacks,2567,1797,92,30
+2026-07-27,2026,7,Mon,Hong Kong Island,Household,2315,1667,83,27
+2026-07-27,2026,7,Mon,Hong Kong Island,Fresh,3224,2418,115,37
+2026-07-27,2026,7,Mon,New Territories,Beverage,3393,2307,121,39
+2026-07-27,2026,7,Mon,New Territories,Snacks,1869,1308,67,22
+2026-07-27,2026,7,Mon,New Territories,Household,1657,1193,59,19
+2026-07-27,2026,7,Mon,New Territories,Fresh,2459,1844,88,29
+2026-07-28,2026,7,Tue,Kowloon,Beverage,5573,3790,199,65
+2026-07-28,2026,7,Tue,Kowloon,Snacks,2165,1516,77,25
+2026-07-28,2026,7,Tue,Kowloon,Household,1940,1397,69,23
+2026-07-28,2026,7,Tue,Kowloon,Fresh,2902,2176,104,34
+2026-07-28,2026,7,Tue,Hong Kong Island,Beverage,3785,2574,135,44
+2026-07-28,2026,7,Tue,Hong Kong Island,Snacks,2574,1802,92,30
+2026-07-28,2026,7,Tue,Hong Kong Island,Household,2316,1668,83,27
+2026-07-28,2026,7,Tue,Hong Kong Island,Fresh,3089,2317,110,36
+2026-07-28,2026,7,Tue,New Territories,Beverage,3296,2241,118,38
+2026-07-28,2026,7,Tue,New Territories,Snacks,1875,1312,67,22
+2026-07-28,2026,7,Tue,New Territories,Household,1704,1227,61,20
+2026-07-28,2026,7,Tue,New Territories,Fresh,2453,1840,88,29
+2026-07-29,2026,7,Wed,Kowloon,Beverage,5540,3767,198,64
+2026-07-29,2026,7,Wed,Kowloon,Snacks,2270,1589,81,26
+2026-07-29,2026,7,Wed,Kowloon,Household,1904,1371,68,22
+2026-07-29,2026,7,Wed,Kowloon,Fresh,2921,2191,104,34
+2026-07-29,2026,7,Wed,Hong Kong Island,Beverage,4013,2729,143,47
+2026-07-29,2026,7,Wed,Hong Kong Island,Snacks,2547,1783,91,30
+2026-07-29,2026,7,Wed,Hong Kong Island,Household,2216,1596,79,26
+2026-07-29,2026,7,Wed,Hong Kong Island,Fresh,3101,2326,111,36
+2026-07-29,2026,7,Wed,New Territories,Beverage,3283,2232,117,38
+2026-07-29,2026,7,Wed,New Territories,Snacks,1965,1376,70,23
+2026-07-29,2026,7,Wed,New Territories,Household,1713,1233,61,20
+2026-07-29,2026,7,Wed,New Territories,Fresh,2440,1830,87,28
+2026-07-30,2026,7,Thu,Kowloon,Beverage,5337,3629,191,62
+2026-07-30,2026,7,Thu,Kowloon,Snacks,2237,1566,80,26
+2026-07-30,2026,7,Thu,Kowloon,Household,1959,1410,70,23
+2026-07-30,2026,7,Thu,Kowloon,Fresh,2857,2143,102,33
+2026-07-30,2026,7,Thu,Hong Kong Island,Beverage,4010,2727,143,47
+2026-07-30,2026,7,Thu,Hong Kong Island,Snacks,2590,1813,92,30
+2026-07-30,2026,7,Thu,Hong Kong Island,Household,2207,1589,79,26
+2026-07-30,2026,7,Thu,Hong Kong Island,Fresh,3081,2311,110,36
+2026-07-30,2026,7,Thu,New Territories,Beverage,3314,2254,118,39
+2026-07-30,2026,7,Thu,New Territories,Snacks,2007,1405,72,23
+2026-07-30,2026,7,Thu,New Territories,Household,1612,1161,58,19
+2026-07-30,2026,7,Thu,New Territories,Fresh,2450,1838,88,28
+2026-07-31,2026,7,Fri,Kowloon,Beverage,5349,3637,191,62
+2026-07-31,2026,7,Fri,Kowloon,Snacks,2268,1588,81,26
+2026-07-31,2026,7,Fri,Kowloon,Household,1961,1412,70,23
+2026-07-31,2026,7,Fri,Kowloon,Fresh,2799,2099,100,33
+2026-07-31,2026,7,Fri,Hong Kong Island,Beverage,3879,2638,139,45
+2026-07-31,2026,7,Fri,Hong Kong Island,Snacks,2558,1791,91,30
+2026-07-31,2026,7,Fri,Hong Kong Island,Household,2294,1652,82,27
+2026-07-31,2026,7,Fri,Hong Kong Island,Fresh,2989,2242,107,35
+2026-07-31,2026,7,Fri,New Territories,Beverage,3300,2244,118,38
+2026-07-31,2026,7,Fri,New Territories,Snacks,1868,1308,67,22
+2026-07-31,2026,7,Fri,New Territories,Household,1684,1212,60,20
+2026-07-31,2026,7,Fri,New Territories,Fresh,2521,1891,90,29
+2026-08-01,2026,8,Sat,Kowloon,Beverage,6251,4251,223,73
+2026-08-01,2026,8,Sat,Kowloon,Snacks,2522,1765,90,29
+2026-08-01,2026,8,Sat,Kowloon,Household,2209,1590,79,26
+2026-08-01,2026,8,Sat,Kowloon,Fresh,3129,2347,112,36
+2026-08-01,2026,8,Sat,Hong Kong Island,Beverage,4414,3002,158,51
+2026-08-01,2026,8,Sat,Hong Kong Island,Snacks,2752,1926,98,32
+2026-08-01,2026,8,Sat,Hong Kong Island,Household,2418,1741,86,28
+2026-08-01,2026,8,Sat,Hong Kong Island,Fresh,3481,2611,124,40
+2026-08-01,2026,8,Sat,New Territories,Beverage,3671,2496,131,43
+2026-08-01,2026,8,Sat,New Territories,Snacks,2167,1517,77,25
+2026-08-01,2026,8,Sat,New Territories,Household,1881,1354,67,22
+2026-08-01,2026,8,Sat,New Territories,Fresh,2818,2114,101,33
+2026-08-02,2026,8,Sun,Kowloon,Beverage,6133,4170,219,71
+2026-08-02,2026,8,Sun,Kowloon,Snacks,2520,1764,90,29
+2026-08-02,2026,8,Sun,Kowloon,Household,2147,1546,77,25
+2026-08-02,2026,8,Sun,Kowloon,Fresh,3207,2405,115,37
+2026-08-02,2026,8,Sun,Hong Kong Island,Beverage,4381,2979,156,51
+2026-08-02,2026,8,Sun,Hong Kong Island,Snacks,2832,1982,101,33
+2026-08-02,2026,8,Sun,Hong Kong Island,Household,2559,1842,91,30
+2026-08-02,2026,8,Sun,Hong Kong Island,Fresh,3501,2626,125,41
+2026-08-02,2026,8,Sun,New Territories,Beverage,3659,2488,131,43
+2026-08-02,2026,8,Sun,New Territories,Snacks,2117,1482,76,25
+2026-08-02,2026,8,Sun,New Territories,Household,1888,1359,67,22
+2026-08-02,2026,8,Sun,New Territories,Fresh,2910,2182,104,34
+2026-08-03,2026,8,Mon,Kowloon,Beverage,5564,3784,199,65
+2026-08-03,2026,8,Mon,Kowloon,Snacks,2318,1623,83,27
+2026-08-03,2026,8,Mon,Kowloon,Household,2014,1450,72,23
+2026-08-03,2026,8,Mon,Kowloon,Fresh,2954,2216,106,34
+2026-08-03,2026,8,Mon,Hong Kong Island,Beverage,4011,2727,143,47
+2026-08-03,2026,8,Mon,Hong Kong Island,Snacks,2642,1849,94,31
+2026-08-03,2026,8,Mon,Hong Kong Island,Household,2355,1696,84,27
+2026-08-03,2026,8,Mon,Hong Kong Island,Fresh,3139,2354,112,36
+2026-08-03,2026,8,Mon,New Territories,Beverage,3458,2351,124,40
+2026-08-03,2026,8,Mon,New Territories,Snacks,2045,1432,73,24
+2026-08-03,2026,8,Mon,New Territories,Household,1714,1234,61,20
+2026-08-03,2026,8,Mon,New Territories,Fresh,2692,2019,96,31
+2026-08-04,2026,8,Tue,Kowloon,Beverage,5788,3936,207,67
+2026-08-04,2026,8,Tue,Kowloon,Snacks,2253,1577,80,26
+2026-08-04,2026,8,Tue,Kowloon,Household,1986,1430,71,23
+2026-08-04,2026,8,Tue,Kowloon,Fresh,2989,2242,107,35
+2026-08-04,2026,8,Tue,Hong Kong Island,Beverage,4114,2798,147,48
+2026-08-04,2026,8,Tue,Hong Kong Island,Snacks,2540,1778,91,30
+2026-08-04,2026,8,Tue,Hong Kong Island,Household,2248,1619,80,26
+2026-08-04,2026,8,Tue,Hong Kong Island,Fresh,3113,2335,111,36
+2026-08-04,2026,8,Tue,New Territories,Beverage,3533,2402,126,41
+2026-08-04,2026,8,Tue,New Territories,Snacks,1928,1350,69,22
+2026-08-04,2026,8,Tue,New Territories,Household,1742,1254,62,20
+2026-08-04,2026,8,Tue,New Territories,Fresh,2651,1988,95,31
+2026-08-05,2026,8,Wed,Kowloon,Beverage,5596,3805,200,65
+2026-08-05,2026,8,Wed,Kowloon,Snacks,2219,1553,79,26
+2026-08-05,2026,8,Wed,Kowloon,Household,1991,1434,71,23
+2026-08-05,2026,8,Wed,Kowloon,Fresh,3007,2255,107,35
+2026-08-05,2026,8,Wed,Hong Kong Island,Beverage,3878,2637,138,45
+2026-08-05,2026,8,Wed,Hong Kong Island,Snacks,2584,1809,92,30
+2026-08-05,2026,8,Wed,Hong Kong Island,Household,2349,1691,84,27
+2026-08-05,2026,8,Wed,Hong Kong Island,Fresh,3135,2351,112,36
+2026-08-05,2026,8,Wed,New Territories,Beverage,3358,2283,120,39
+2026-08-05,2026,8,Wed,New Territories,Snacks,2003,1402,72,23
+2026-08-05,2026,8,Wed,New Territories,Household,1692,1218,60,20
+2026-08-05,2026,8,Wed,New Territories,Fresh,2632,1974,94,31
+2026-08-06,2026,8,Thu,Kowloon,Beverage,5806,3948,207,68
+2026-08-06,2026,8,Thu,Kowloon,Snacks,2209,1546,79,26
+2026-08-06,2026,8,Thu,Kowloon,Household,2033,1464,73,24
+2026-08-06,2026,8,Thu,Kowloon,Fresh,2876,2157,103,33
+2026-08-06,2026,8,Thu,Hong Kong Island,Beverage,3878,2637,138,45
+2026-08-06,2026,8,Thu,Hong Kong Island,Snacks,2637,1846,94,31
+2026-08-06,2026,8,Thu,Hong Kong Island,Household,2340,1685,84,27
+2026-08-06,2026,8,Thu,Hong Kong Island,Fresh,3265,2449,117,38
+2026-08-06,2026,8,Thu,New Territories,Beverage,3419,2325,122,40
+2026-08-06,2026,8,Thu,New Territories,Snacks,1922,1345,69,22
+2026-08-06,2026,8,Thu,New Territories,Household,1671,1203,60,19
+2026-08-06,2026,8,Thu,New Territories,Fresh,2654,1990,95,31
+2026-08-07,2026,8,Fri,Kowloon,Beverage,5464,3716,195,64
+2026-08-07,2026,8,Fri,Kowloon,Snacks,2331,1632,83,27
+2026-08-07,2026,8,Fri,Kowloon,Household,1971,1419,70,23
+2026-08-07,2026,8,Fri,Kowloon,Fresh,2913,2185,104,34
+2026-08-07,2026,8,Fri,Hong Kong Island,Beverage,4075,2771,146,47
+2026-08-07,2026,8,Fri,Hong Kong Island,Snacks,2565,1795,92,30
+2026-08-07,2026,8,Fri,Hong Kong Island,Household,2230,1606,80,26
+2026-08-07,2026,8,Fri,Hong Kong Island,Fresh,3319,2489,119,39
+2026-08-07,2026,8,Fri,New Territories,Beverage,3387,2303,121,39
+2026-08-07,2026,8,Fri,New Territories,Snacks,2049,1434,73,24
+2026-08-07,2026,8,Fri,New Territories,Household,1650,1188,59,19
+2026-08-07,2026,8,Fri,New Territories,Fresh,2635,1976,94,31
+2026-08-08,2026,8,Sat,Kowloon,Beverage,6191,4210,221,72
+2026-08-08,2026,8,Sat,Kowloon,Snacks,2497,1748,89,29
+2026-08-08,2026,8,Sat,Kowloon,Household,2196,1581,78,26
+2026-08-08,2026,8,Sat,Kowloon,Fresh,3247,2435,116,38
+2026-08-08,2026,8,Sat,Hong Kong Island,Beverage,4148,2821,148,48
+2026-08-08,2026,8,Sat,Hong Kong Island,Snacks,2830,1981,101,33
+2026-08-08,2026,8,Sat,Hong Kong Island,Household,2537,1827,91,30
+2026-08-08,2026,8,Sat,Hong Kong Island,Fresh,3557,2668,127,41
+2026-08-08,2026,8,Sat,New Territories,Beverage,3709,2522,132,43
+2026-08-08,2026,8,Sat,New Territories,Snacks,2186,1530,78,25
+2026-08-08,2026,8,Sat,New Territories,Household,1877,1351,67,22
+2026-08-08,2026,8,Sat,New Territories,Fresh,2729,2047,97,32
+2026-08-09,2026,8,Sun,Kowloon,Beverage,5971,4060,213,69
+2026-08-09,2026,8,Sun,Kowloon,Snacks,2404,1683,86,28
+2026-08-09,2026,8,Sun,Kowloon,Household,2118,1525,76,25
+2026-08-09,2026,8,Sun,Kowloon,Fresh,3026,2270,108,35
+2026-08-09,2026,8,Sun,Hong Kong Island,Beverage,4212,2864,150,49
+2026-08-09,2026,8,Sun,Hong Kong Island,Snacks,2844,1991,102,33
+2026-08-09,2026,8,Sun,Hong Kong Island,Household,2422,1744,86,28
+2026-08-09,2026,8,Sun,Hong Kong Island,Fresh,3375,2531,121,39
+2026-08-09,2026,8,Sun,New Territories,Beverage,3691,2510,132,43
+2026-08-09,2026,8,Sun,New Territories,Snacks,2132,1492,76,25
+2026-08-09,2026,8,Sun,New Territories,Household,1786,1286,64,21
+2026-08-09,2026,8,Sun,New Territories,Fresh,2719,2039,97,32
+2026-08-10,2026,8,Mon,Kowloon,Beverage,5777,3928,206,67
+2026-08-10,2026,8,Mon,Kowloon,Snacks,2307,1615,82,27
+2026-08-10,2026,8,Mon,Kowloon,Household,1950,1404,70,23
+2026-08-10,2026,8,Mon,Kowloon,Fresh,2837,2128,101,33
+2026-08-10,2026,8,Mon,Hong Kong Island,Beverage,3931,2673,140,46
+2026-08-10,2026,8,Mon,Hong Kong Island,Snacks,2692,1884,96,31
+2026-08-10,2026,8,Mon,Hong Kong Island,Household,2351,1693,84,27
+2026-08-10,2026,8,Mon,Hong Kong Island,Fresh,3154,2366,113,37
+2026-08-10,2026,8,Mon,New Territories,Beverage,3344,2274,119,39
+2026-08-10,2026,8,Mon,New Territories,Snacks,2048,1434,73,24
+2026-08-10,2026,8,Mon,New Territories,Household,1684,1212,60,20
+2026-08-10,2026,8,Mon,New Territories,Fresh,2595,1946,93,30
+2026-08-11,2026,8,Tue,Kowloon,Beverage,5540,3767,198,64
+2026-08-11,2026,8,Tue,Kowloon,Snacks,2283,1598,82,27
+2026-08-11,2026,8,Tue,Kowloon,Household,2067,1488,74,24
+2026-08-11,2026,8,Tue,Kowloon,Fresh,2929,2197,105,34
+2026-08-11,2026,8,Tue,Hong Kong Island,Beverage,4147,2820,148,48
+2026-08-11,2026,8,Tue,Hong Kong Island,Snacks,2580,1806,92,30
+2026-08-11,2026,8,Tue,Hong Kong Island,Household,2390,1721,85,28
+2026-08-11,2026,8,Tue,Hong Kong Island,Fresh,3254,2440,116,38
+2026-08-11,2026,8,Tue,New Territories,Beverage,3489,2373,125,41
+2026-08-11,2026,8,Tue,New Territories,Snacks,1991,1394,71,23
+2026-08-11,2026,8,Tue,New Territories,Household,1665,1199,59,19
+2026-08-11,2026,8,Tue,New Territories,Fresh,2674,2006,96,31
+2026-08-12,2026,8,Wed,Kowloon,Beverage,5435,3696,194,63
+2026-08-12,2026,8,Wed,Kowloon,Snacks,2313,1619,83,27
+2026-08-12,2026,8,Wed,Kowloon,Household,1999,1439,71,23
+2026-08-12,2026,8,Wed,Kowloon,Fresh,3014,2260,108,35
+2026-08-12,2026,8,Wed,Hong Kong Island,Beverage,4073,2770,145,47
+2026-08-12,2026,8,Wed,Hong Kong Island,Snacks,2651,1856,95,31
+2026-08-12,2026,8,Wed,Hong Kong Island,Household,2220,1598,79,26
+2026-08-12,2026,8,Wed,Hong Kong Island,Fresh,3163,2372,113,37
+2026-08-12,2026,8,Wed,New Territories,Beverage,3447,2344,123,40
+2026-08-12,2026,8,Wed,New Territories,Snacks,2067,1447,74,24
+2026-08-12,2026,8,Wed,New Territories,Household,1738,1251,62,20
+2026-08-12,2026,8,Wed,New Territories,Fresh,2696,2022,96,31
+2026-08-13,2026,8,Thu,Kowloon,Beverage,5747,3908,205,67
+2026-08-13,2026,8,Thu,Kowloon,Snacks,2305,1614,82,27
+2026-08-13,2026,8,Thu,Kowloon,Household,2075,1494,74,24
+2026-08-13,2026,8,Thu,Kowloon,Fresh,2832,2124,101,33
+2026-08-13,2026,8,Thu,Hong Kong Island,Beverage,4001,2721,143,47
+2026-08-13,2026,8,Thu,Hong Kong Island,Snacks,2546,1782,91,30
+2026-08-13,2026,8,Thu,Hong Kong Island,Household,2372,1708,85,28
+2026-08-13,2026,8,Thu,Hong Kong Island,Fresh,3205,2404,114,37
+2026-08-13,2026,8,Thu,New Territories,Beverage,3348,2277,120,39
+2026-08-13,2026,8,Thu,New Territories,Snacks,2073,1451,74,24
+2026-08-13,2026,8,Thu,New Territories,Household,1666,1200,60,19
+2026-08-13,2026,8,Thu,New Territories,Fresh,2688,2016,96,31
+2026-08-14,2026,8,Fri,Kowloon,Beverage,5640,3835,201,66
+2026-08-14,2026,8,Fri,Kowloon,Snacks,2362,1653,84,27
+2026-08-14,2026,8,Fri,Kowloon,Household,2073,1493,74,24
+2026-08-14,2026,8,Fri,Kowloon,Fresh,2901,2176,104,34
+2026-08-14,2026,8,Fri,Hong Kong Island,Beverage,3884,2641,139,45
+2026-08-14,2026,8,Fri,Hong Kong Island,Snacks,2629,1840,94,31
+2026-08-14,2026,8,Fri,Hong Kong Island,Household,2358,1698,84,27
+2026-08-14,2026,8,Fri,Hong Kong Island,Fresh,3113,2335,111,36
+2026-08-14,2026,8,Fri,New Territories,Beverage,3300,2244,118,38
+2026-08-14,2026,8,Fri,New Territories,Snacks,1939,1357,69,23
+2026-08-14,2026,8,Fri,New Territories,Household,1691,1218,60,20
+2026-08-14,2026,8,Fri,New Territories,Fresh,2658,1994,95,31
+2026-08-15,2026,8,Sat,Kowloon,Beverage,6249,4249,223,73
+2026-08-15,2026,8,Sat,Kowloon,Snacks,2416,1691,86,28
+2026-08-15,2026,8,Sat,Kowloon,Household,2158,1554,77,25
+2026-08-15,2026,8,Sat,Kowloon,Fresh,3138,2354,112,36
+2026-08-15,2026,8,Sat,Hong Kong Island,Beverage,4447,3024,159,52
+2026-08-15,2026,8,Sat,Hong Kong Island,Snacks,2698,1889,96,31
+2026-08-15,2026,8,Sat,Hong Kong Island,Household,2390,1721,85,28
+2026-08-15,2026,8,Sat,Hong Kong Island,Fresh,3402,2552,122,40
+2026-08-15,2026,8,Sat,New Territories,Beverage,3571,2428,128,42
+2026-08-15,2026,8,Sat,New Territories,Snacks,2141,1499,76,25
+2026-08-15,2026,8,Sat,New Territories,Household,1791,1290,64,21
+2026-08-15,2026,8,Sat,New Territories,Fresh,2913,2185,104,34
+2026-08-16,2026,8,Sun,Kowloon,Beverage,5897,4010,211,69
+2026-08-16,2026,8,Sun,Kowloon,Snacks,2562,1793,92,30
+2026-08-16,2026,8,Sun,Kowloon,Household,2126,1531,76,25
+2026-08-16,2026,8,Sun,Kowloon,Fresh,3034,2276,108,35
+2026-08-16,2026,8,Sun,Hong Kong Island,Beverage,4257,2895,152,50
+2026-08-16,2026,8,Sun,Hong Kong Island,Snacks,2896,2027,103,34
+2026-08-16,2026,8,Sun,Hong Kong Island,Household,2580,1858,92,30
+2026-08-16,2026,8,Sun,Hong Kong Island,Fresh,3475,2606,124,40
+2026-08-16,2026,8,Sun,New Territories,Beverage,3733,2538,133,43
+2026-08-16,2026,8,Sun,New Territories,Snacks,2181,1527,78,25
+2026-08-16,2026,8,Sun,New Territories,Household,1862,1341,66,22
+2026-08-16,2026,8,Sun,New Territories,Fresh,2902,2176,104,34
+2026-08-17,2026,8,Mon,Kowloon,Beverage,5669,3855,202,66
+2026-08-17,2026,8,Mon,Kowloon,Snacks,2375,1662,85,28
+2026-08-17,2026,8,Mon,Kowloon,Household,1981,1426,71,23
+2026-08-17,2026,8,Mon,Kowloon,Fresh,2931,2198,105,34
+2026-08-17,2026,8,Mon,Hong Kong Island,Beverage,3987,2711,142,46
+2026-08-17,2026,8,Mon,Hong Kong Island,Snacks,2608,1826,93,30
+2026-08-17,2026,8,Mon,Hong Kong Island,Household,2238,1611,80,26
+2026-08-17,2026,8,Mon,Hong Kong Island,Fresh,3275,2456,117,38
+2026-08-17,2026,8,Mon,New Territories,Beverage,3414,2322,122,40
+2026-08-17,2026,8,Mon,New Territories,Snacks,2046,1432,73,24
+2026-08-17,2026,8,Mon,New Territories,Household,1729,1245,62,20
+2026-08-17,2026,8,Mon,New Territories,Fresh,2580,1935,92,30
+2026-08-18,2026,8,Tue,Kowloon,Beverage,5384,3661,192,63
+2026-08-18,2026,8,Tue,Kowloon,Snacks,2390,1673,85,28
+2026-08-18,2026,8,Tue,Kowloon,Household,2014,1450,72,23
+2026-08-18,2026,8,Tue,Kowloon,Fresh,2819,2114,101,33
+2026-08-18,2026,8,Tue,Hong Kong Island,Beverage,4026,2738,144,47
+2026-08-18,2026,8,Tue,Hong Kong Island,Snacks,2562,1793,92,30
+2026-08-18,2026,8,Tue,Hong Kong Island,Household,2251,1621,80,26
+2026-08-18,2026,8,Tue,Hong Kong Island,Fresh,3129,2347,112,36
+2026-08-18,2026,8,Tue,New Territories,Beverage,3432,2334,123,40
+2026-08-18,2026,8,Tue,New Territories,Snacks,1948,1364,70,23
+2026-08-18,2026,8,Tue,New Territories,Household,1720,1238,61,20
+2026-08-18,2026,8,Tue,New Territories,Fresh,2543,1907,91,30
+2026-08-19,2026,8,Wed,Kowloon,Beverage,5406,3676,193,63
+2026-08-19,2026,8,Wed,Kowloon,Snacks,2357,1650,84,27
+2026-08-19,2026,8,Wed,Kowloon,Household,1925,1386,69,22
+2026-08-19,2026,8,Wed,Kowloon,Fresh,2896,2172,103,34
+2026-08-19,2026,8,Wed,Hong Kong Island,Beverage,3879,2638,139,45
+2026-08-19,2026,8,Wed,Hong Kong Island,Snacks,2592,1814,93,30
+2026-08-19,2026,8,Wed,Hong Kong Island,Household,2373,1709,85,28
+2026-08-19,2026,8,Wed,Hong Kong Island,Fresh,3213,2410,115,37
+2026-08-19,2026,8,Wed,New Territories,Beverage,3497,2378,125,41
+2026-08-19,2026,8,Wed,New Territories,Snacks,2017,1412,72,23
+2026-08-19,2026,8,Wed,New Territories,Household,1665,1199,59,19
+2026-08-19,2026,8,Wed,New Territories,Fresh,2528,1896,90,29
+2026-08-20,2026,8,Thu,Kowloon,Beverage,5748,3909,205,67
+2026-08-20,2026,8,Thu,Kowloon,Snacks,2350,1645,84,27
+2026-08-20,2026,8,Thu,Kowloon,Household,1927,1387,69,22
+2026-08-20,2026,8,Thu,Kowloon,Fresh,2997,2248,107,35
+2026-08-20,2026,8,Thu,Hong Kong Island,Beverage,4057,2759,145,47
+2026-08-20,2026,8,Thu,Hong Kong Island,Snacks,2679,1875,96,31
+2026-08-20,2026,8,Thu,Hong Kong Island,Household,2283,1644,82,27
+2026-08-20,2026,8,Thu,Hong Kong Island,Fresh,3275,2456,117,38
+2026-08-20,2026,8,Thu,New Territories,Beverage,3379,2298,121,39
+2026-08-20,2026,8,Thu,New Territories,Snacks,2020,1414,72,23
+2026-08-20,2026,8,Thu,New Territories,Household,1707,1229,61,20
+2026-08-20,2026,8,Thu,New Territories,Fresh,2618,1964,94,30
+2026-08-21,2026,8,Fri,Kowloon,Beverage,5620,3822,201,65
+2026-08-21,2026,8,Fri,Kowloon,Snacks,2231,1562,80,26
+2026-08-21,2026,8,Fri,Kowloon,Household,2000,1440,71,23
+2026-08-21,2026,8,Fri,Kowloon,Fresh,2837,2128,101,33
+2026-08-21,2026,8,Fri,Hong Kong Island,Beverage,3863,2627,138,45
+2026-08-21,2026,8,Fri,Hong Kong Island,Snacks,2572,1800,92,30
+2026-08-21,2026,8,Fri,Hong Kong Island,Household,2246,1617,80,26
+2026-08-21,2026,8,Fri,Hong Kong Island,Fresh,3181,2386,114,37
+2026-08-21,2026,8,Fri,New Territories,Beverage,3487,2371,125,41
+2026-08-21,2026,8,Fri,New Territories,Snacks,1932,1352,69,22
+2026-08-21,2026,8,Fri,New Territories,Household,1660,1195,59,19
+2026-08-21,2026,8,Fri,New Territories,Fresh,2694,2020,96,31
+2026-08-22,2026,8,Sat,Kowloon,Beverage,6225,4233,222,72
+2026-08-22,2026,8,Sat,Kowloon,Snacks,2564,1795,92,30
+2026-08-22,2026,8,Sat,Kowloon,Household,2201,1585,79,26
+2026-08-22,2026,8,Sat,Kowloon,Fresh,3138,2354,112,36
+2026-08-22,2026,8,Sat,Hong Kong Island,Beverage,4295,2921,153,50
+2026-08-22,2026,8,Sat,Hong Kong Island,Snacks,2724,1907,97,32
+2026-08-22,2026,8,Sat,Hong Kong Island,Household,2528,1820,90,29
+2026-08-22,2026,8,Sat,Hong Kong Island,Fresh,3476,2607,124,40
+2026-08-22,2026,8,Sat,New Territories,Beverage,3701,2517,132,43
+2026-08-22,2026,8,Sat,New Territories,Snacks,2148,1504,77,25
+2026-08-22,2026,8,Sat,New Territories,Household,1875,1350,67,22
+2026-08-22,2026,8,Sat,New Territories,Fresh,2871,2153,103,33
+2026-08-23,2026,8,Sun,Kowloon,Beverage,6102,4149,218,71
+2026-08-23,2026,8,Sun,Kowloon,Snacks,2492,1744,89,29
+2026-08-23,2026,8,Sun,Kowloon,Household,2140,1541,76,25
+2026-08-23,2026,8,Sun,Kowloon,Fresh,3166,2374,113,37
+2026-08-23,2026,8,Sun,Hong Kong Island,Beverage,4478,3045,160,52
+2026-08-23,2026,8,Sun,Hong Kong Island,Snacks,2744,1921,98,32
+2026-08-23,2026,8,Sun,Hong Kong Island,Household,2447,1762,87,28
+2026-08-23,2026,8,Sun,Hong Kong Island,Fresh,3549,2662,127,41
+2026-08-23,2026,8,Sun,New Territories,Beverage,3598,2447,128,42
+2026-08-23,2026,8,Sun,New Territories,Snacks,2158,1511,77,25
+2026-08-23,2026,8,Sun,New Territories,Household,1908,1374,68,22
+2026-08-23,2026,8,Sun,New Territories,Fresh,2774,2080,99,32
+2026-08-24,2026,8,Mon,Kowloon,Beverage,5453,3708,195,63
+2026-08-24,2026,8,Mon,Kowloon,Snacks,2351,1646,84,27
+2026-08-24,2026,8,Mon,Kowloon,Household,2014,1450,72,23
+2026-08-24,2026,8,Mon,Kowloon,Fresh,2942,2206,105,34
+2026-08-24,2026,8,Mon,Hong Kong Island,Beverage,4128,2807,147,48
+2026-08-24,2026,8,Mon,Hong Kong Island,Snacks,2581,1807,92,30
+2026-08-24,2026,8,Mon,Hong Kong Island,Household,2290,1649,82,27
+2026-08-24,2026,8,Mon,Hong Kong Island,Fresh,3281,2461,117,38
+2026-08-24,2026,8,Mon,New Territories,Beverage,3279,2230,117,38
+2026-08-24,2026,8,Mon,New Territories,Snacks,1992,1394,71,23
+2026-08-24,2026,8,Mon,New Territories,Household,1674,1205,60,19
+2026-08-24,2026,8,Mon,New Territories,Fresh,2649,1987,95,31
+2026-08-25,2026,8,Tue,Kowloon,Beverage,5564,3784,199,65
+2026-08-25,2026,8,Tue,Kowloon,Snacks,2224,1557,79,26
+2026-08-25,2026,8,Tue,Kowloon,Household,2007,1445,72,23
+2026-08-25,2026,8,Tue,Kowloon,Fresh,3013,2260,108,35
+2026-08-25,2026,8,Tue,Hong Kong Island,Beverage,3880,2638,139,45
+2026-08-25,2026,8,Tue,Hong Kong Island,Snacks,2509,1756,90,29
+2026-08-25,2026,8,Tue,Hong Kong Island,Household,2233,1608,80,26
+2026-08-25,2026,8,Tue,Hong Kong Island,Fresh,3280,2460,117,38
+2026-08-25,2026,8,Tue,New Territories,Beverage,3266,2221,117,38
+2026-08-25,2026,8,Tue,New Territories,Snacks,1993,1395,71,23
+2026-08-25,2026,8,Tue,New Territories,Household,1735,1249,62,20
+2026-08-25,2026,8,Tue,New Territories,Fresh,2594,1946,93,30
+2026-08-26,2026,8,Wed,Kowloon,Beverage,5391,3666,193,63
+2026-08-26,2026,8,Wed,Kowloon,Snacks,2359,1651,84,27
+2026-08-26,2026,8,Wed,Kowloon,Household,1941,1398,69,23
+2026-08-26,2026,8,Wed,Kowloon,Fresh,2914,2186,104,34
+2026-08-26,2026,8,Wed,Hong Kong Island,Beverage,3986,2710,142,46
+2026-08-26,2026,8,Wed,Hong Kong Island,Snacks,2625,1837,94,31
+2026-08-26,2026,8,Wed,Hong Kong Island,Household,2309,1662,82,27
+2026-08-26,2026,8,Wed,Hong Kong Island,Fresh,3309,2482,118,38
+2026-08-26,2026,8,Wed,New Territories,Beverage,3486,2370,124,41
+2026-08-26,2026,8,Wed,New Territories,Snacks,2074,1452,74,24
+2026-08-26,2026,8,Wed,New Territories,Household,1636,1178,58,19
+2026-08-26,2026,8,Wed,New Territories,Fresh,2696,2022,96,31
+2026-08-27,2026,8,Thu,Kowloon,Beverage,5487,3731,196,64
+2026-08-27,2026,8,Thu,Kowloon,Snacks,2343,1640,84,27
+2026-08-27,2026,8,Thu,Kowloon,Household,1922,1384,69,22
+2026-08-27,2026,8,Thu,Kowloon,Fresh,2965,2224,106,34
+2026-08-27,2026,8,Thu,Hong Kong Island,Beverage,4115,2798,147,48
+2026-08-27,2026,8,Thu,Hong Kong Island,Snacks,2676,1873,96,31
+2026-08-27,2026,8,Thu,Hong Kong Island,Household,2371,1707,85,28
+2026-08-27,2026,8,Thu,Hong Kong Island,Fresh,3102,2326,111,36
+2026-08-27,2026,8,Thu,New Territories,Beverage,3475,2363,124,40
+2026-08-27,2026,8,Thu,New Territories,Snacks,2031,1422,73,24
+2026-08-27,2026,8,Thu,New Territories,Household,1710,1231,61,20
+2026-08-27,2026,8,Thu,New Territories,Fresh,2544,1908,91,30
+2026-08-28,2026,8,Fri,Kowloon,Beverage,5716,3887,204,66
+2026-08-28,2026,8,Fri,Kowloon,Snacks,2302,1611,82,27
+2026-08-28,2026,8,Fri,Kowloon,Household,2000,1440,71,23
+2026-08-28,2026,8,Fri,Kowloon,Fresh,2841,2131,101,33
+2026-08-28,2026,8,Fri,Hong Kong Island,Beverage,3993,2715,143,46
+2026-08-28,2026,8,Fri,Hong Kong Island,Snacks,2513,1759,90,29
+2026-08-28,2026,8,Fri,Hong Kong Island,Household,2367,1704,85,28
+2026-08-28,2026,8,Fri,Hong Kong Island,Fresh,3199,2399,114,37
+2026-08-28,2026,8,Fri,New Territories,Beverage,3409,2318,122,40
+2026-08-28,2026,8,Fri,New Territories,Snacks,2033,1423,73,24
+2026-08-28,2026,8,Fri,New Territories,Household,1633,1176,58,19
+2026-08-28,2026,8,Fri,New Territories,Fresh,2691,2018,96,31
+2026-08-29,2026,8,Sat,Kowloon,Beverage,5807,3949,207,68
+2026-08-29,2026,8,Sat,Kowloon,Snacks,2431,1702,87,28
+2026-08-29,2026,8,Sat,Kowloon,Household,2204,1587,79,26
+2026-08-29,2026,8,Sat,Kowloon,Fresh,3097,2323,111,36
+2026-08-29,2026,8,Sat,Hong Kong Island,Beverage,4405,2995,157,51
+2026-08-29,2026,8,Sat,Hong Kong Island,Snacks,2832,1982,101,33
+2026-08-29,2026,8,Sat,Hong Kong Island,Household,2578,1856,92,30
+2026-08-29,2026,8,Sat,Hong Kong Island,Fresh,3334,2500,119,39
+2026-08-29,2026,8,Sat,New Territories,Beverage,3574,2430,128,42
+2026-08-29,2026,8,Sat,New Territories,Snacks,2219,1553,79,26
+2026-08-29,2026,8,Sat,New Territories,Household,1781,1282,64,21
+2026-08-29,2026,8,Sat,New Territories,Fresh,2876,2157,103,33
+2026-08-30,2026,8,Sun,Kowloon,Beverage,5954,4049,213,69
+2026-08-30,2026,8,Sun,Kowloon,Snacks,2559,1791,91,30
+2026-08-30,2026,8,Sun,Kowloon,Household,2190,1577,78,25
+2026-08-30,2026,8,Sun,Kowloon,Fresh,3037,2278,108,35
+2026-08-30,2026,8,Sun,Hong Kong Island,Beverage,4170,2836,149,48
+2026-08-30,2026,8,Sun,Hong Kong Island,Snacks,2719,1903,97,32
+2026-08-30,2026,8,Sun,Hong Kong Island,Household,2583,1860,92,30
+2026-08-30,2026,8,Sun,Hong Kong Island,Fresh,3408,2556,122,40
+2026-08-30,2026,8,Sun,New Territories,Beverage,3579,2434,128,42
+2026-08-30,2026,8,Sun,New Territories,Snacks,2112,1478,75,25
+2026-08-30,2026,8,Sun,New Territories,Household,1807,1301,65,21
+2026-08-30,2026,8,Sun,New Territories,Fresh,2873,2155,103,33
+2026-08-31,2026,8,Mon,Kowloon,Beverage,5785,3934,207,67
+2026-08-31,2026,8,Mon,Kowloon,Snacks,2326,1628,83,27
+2026-08-31,2026,8,Mon,Kowloon,Household,2043,1471,73,24
+2026-08-31,2026,8,Mon,Kowloon,Fresh,2975,2231,106,35
+2026-08-31,2026,8,Mon,Hong Kong Island,Beverage,3872,2633,138,45
+2026-08-31,2026,8,Mon,Hong Kong Island,Snacks,2578,1805,92,30
+2026-08-31,2026,8,Mon,Hong Kong Island,Household,2385,1717,85,28
+2026-08-31,2026,8,Mon,Hong Kong Island,Fresh,3246,2434,116,38
+2026-08-31,2026,8,Mon,New Territories,Beverage,3416,2323,122,40
+2026-08-31,2026,8,Mon,New Territories,Snacks,2048,1434,73,24
+2026-08-31,2026,8,Mon,New Territories,Household,1725,1242,62,20
+2026-08-31,2026,8,Mon,New Territories,Fresh,2683,2012,96,31
+2026-09-01,2026,9,Tue,Kowloon,Beverage,5520,3754,197,64
+2026-09-01,2026,9,Tue,Kowloon,Snacks,2411,1688,86,28
+2026-09-01,2026,9,Tue,Kowloon,Household,2042,1470,73,24
+2026-09-01,2026,9,Tue,Kowloon,Fresh,2984,2238,107,35
+2026-09-01,2026,9,Tue,Hong Kong Island,Beverage,3963,2695,142,46
+2026-09-01,2026,9,Tue,Hong Kong Island,Snacks,2693,1885,96,31
+2026-09-01,2026,9,Tue,Hong Kong Island,Household,2406,1732,86,28
+2026-09-01,2026,9,Tue,Hong Kong Island,Fresh,3329,2497,119,39
+2026-09-01,2026,9,Tue,New Territories,Beverage,3466,2357,124,40
+2026-09-01,2026,9,Tue,New Territories,Snacks,1997,1398,71,23
+2026-09-01,2026,9,Tue,New Territories,Household,1769,1274,63,21
+2026-09-01,2026,9,Tue,New Territories,Fresh,2481,1861,89,29
+2026-09-02,2026,9,Wed,Kowloon,Beverage,5514,3750,197,64
+2026-09-02,2026,9,Wed,Kowloon,Snacks,2400,1680,86,28
+2026-09-02,2026,9,Wed,Kowloon,Household,2087,1503,75,24
+2026-09-02,2026,9,Wed,Kowloon,Fresh,2849,2137,102,33
+2026-09-02,2026,9,Wed,Hong Kong Island,Beverage,3944,2682,141,46
+2026-09-02,2026,9,Wed,Hong Kong Island,Snacks,2658,1861,95,31
+2026-09-02,2026,9,Wed,Hong Kong Island,Household,2379,1713,85,28
+2026-09-02,2026,9,Wed,Hong Kong Island,Fresh,3205,2404,114,37
+2026-09-02,2026,9,Wed,New Territories,Beverage,3416,2323,122,40
+2026-09-02,2026,9,Wed,New Territories,Snacks,2108,1476,75,25
+2026-09-02,2026,9,Wed,New Territories,Household,1754,1263,63,20
+2026-09-02,2026,9,Wed,New Territories,Fresh,2449,1837,87,28
+2026-09-03,2026,9,Thu,Kowloon,Beverage,5659,3848,202,66
+2026-09-03,2026,9,Thu,Kowloon,Snacks,2415,1690,86,28
+2026-09-03,2026,9,Thu,Kowloon,Household,2057,1481,73,24
+2026-09-03,2026,9,Thu,Kowloon,Fresh,3026,2270,108,35
+2026-09-03,2026,9,Thu,Hong Kong Island,Beverage,4158,2827,148,48
+2026-09-03,2026,9,Thu,Hong Kong Island,Snacks,2748,1924,98,32
+2026-09-03,2026,9,Thu,Hong Kong Island,Household,2321,1671,83,27
+2026-09-03,2026,9,Thu,Hong Kong Island,Fresh,3350,2512,120,39
+2026-09-03,2026,9,Thu,New Territories,Beverage,3482,2368,124,40
+2026-09-03,2026,9,Thu,New Territories,Snacks,2038,1427,73,24
+2026-09-03,2026,9,Thu,New Territories,Household,1725,1242,62,20
+2026-09-03,2026,9,Thu,New Territories,Fresh,2402,1802,86,28
+2026-09-04,2026,9,Fri,Kowloon,Beverage,5649,3841,202,66
+2026-09-04,2026,9,Fri,Kowloon,Snacks,2277,1594,81,26
+2026-09-04,2026,9,Fri,Kowloon,Household,2034,1464,73,24
+2026-09-04,2026,9,Fri,Kowloon,Fresh,2946,2210,105,34
+2026-09-04,2026,9,Fri,Hong Kong Island,Beverage,3996,2717,143,46
+2026-09-04,2026,9,Fri,Hong Kong Island,Snacks,2750,1925,98,32
+2026-09-04,2026,9,Fri,Hong Kong Island,Household,2423,1745,87,28
+2026-09-04,2026,9,Fri,Hong Kong Island,Fresh,3242,2432,116,38
+2026-09-04,2026,9,Fri,New Territories,Beverage,3504,2383,125,41
+2026-09-04,2026,9,Fri,New Territories,Snacks,2112,1478,75,25
+2026-09-04,2026,9,Fri,New Territories,Household,1709,1230,61,20
+2026-09-04,2026,9,Fri,New Territories,Fresh,2360,1770,84,27
+2026-09-05,2026,9,Sat,Kowloon,Beverage,6392,4347,228,74
+2026-09-05,2026,9,Sat,Kowloon,Snacks,2513,1759,90,29
+2026-09-05,2026,9,Sat,Kowloon,Household,2249,1619,80,26
+2026-09-05,2026,9,Sat,Kowloon,Fresh,3194,2396,114,37
+2026-09-05,2026,9,Sat,Hong Kong Island,Beverage,4394,2988,157,51
+2026-09-05,2026,9,Sat,Hong Kong Island,Snacks,2923,2046,104,34
+2026-09-05,2026,9,Sat,Hong Kong Island,Household,2450,1764,88,28
+2026-09-05,2026,9,Sat,Hong Kong Island,Fresh,3517,2638,126,41
+2026-09-05,2026,9,Sat,New Territories,Beverage,3602,2449,129,42
+2026-09-05,2026,9,Sat,New Territories,Snacks,2176,1523,78,25
+2026-09-05,2026,9,Sat,New Territories,Household,1850,1332,66,22
+2026-09-05,2026,9,Sat,New Territories,Fresh,2600,1950,93,30
+2026-09-06,2026,9,Sun,Kowloon,Beverage,6035,4104,216,70
+2026-09-06,2026,9,Sun,Kowloon,Snacks,2577,1804,92,30
+2026-09-06,2026,9,Sun,Kowloon,Household,2239,1612,80,26
+2026-09-06,2026,9,Sun,Kowloon,Fresh,3156,2367,113,37
+2026-09-06,2026,9,Sun,Hong Kong Island,Beverage,4254,2893,152,49
+2026-09-06,2026,9,Sun,Hong Kong Island,Snacks,2877,2014,103,33
+2026-09-06,2026,9,Sun,Hong Kong Island,Household,2441,1758,87,28
+2026-09-06,2026,9,Sun,Hong Kong Island,Fresh,3607,2705,129,42
+2026-09-06,2026,9,Sun,New Territories,Beverage,3789,2577,135,44
+2026-09-06,2026,9,Sun,New Territories,Snacks,2128,1490,76,25
+2026-09-06,2026,9,Sun,New Territories,Household,1878,1352,67,22
+2026-09-06,2026,9,Sun,New Territories,Fresh,2640,1980,94,31
+2026-09-07,2026,9,Mon,Kowloon,Beverage,5544,3770,198,64
+2026-09-07,2026,9,Mon,Kowloon,Snacks,2299,1609,82,27
+2026-09-07,2026,9,Mon,Kowloon,Household,2060,1483,74,24
+2026-09-07,2026,9,Mon,Kowloon,Fresh,2997,2248,107,35
+2026-09-07,2026,9,Mon,Hong Kong Island,Beverage,4053,2756,145,47
+2026-09-07,2026,9,Mon,Hong Kong Island,Snacks,2731,1912,98,32
+2026-09-07,2026,9,Mon,Hong Kong Island,Household,2321,1671,83,27
+2026-09-07,2026,9,Mon,Hong Kong Island,Fresh,3184,2388,114,37
+2026-09-07,2026,9,Mon,New Territories,Beverage,3367,2290,120,39
+2026-09-07,2026,9,Mon,New Territories,Snacks,2015,1410,72,23
+2026-09-07,2026,9,Mon,New Territories,Household,1782,1283,64,21
+2026-09-07,2026,9,Mon,New Territories,Fresh,2354,1766,84,27
+2026-09-08,2026,9,Tue,Kowloon,Beverage,5908,4017,211,69
+2026-09-08,2026,9,Tue,Kowloon,Snacks,2365,1656,84,28
+2026-09-08,2026,9,Tue,Kowloon,Household,2119,1526,76,25
+2026-09-08,2026,9,Tue,Kowloon,Fresh,2993,2245,107,35
+2026-09-08,2026,9,Tue,Hong Kong Island,Beverage,4055,2757,145,47
+2026-09-08,2026,9,Tue,Hong Kong Island,Snacks,2630,1841,94,31
+2026-09-08,2026,9,Tue,Hong Kong Island,Household,2434,1752,87,28
+2026-09-08,2026,9,Tue,Hong Kong Island,Fresh,3326,2494,119,39
+2026-09-08,2026,9,Tue,New Territories,Beverage,3564,2424,127,41
+2026-09-08,2026,9,Tue,New Territories,Snacks,2033,1423,73,24
+2026-09-08,2026,9,Tue,New Territories,Household,1767,1272,63,21
+2026-09-08,2026,9,Tue,New Territories,Fresh,2480,1860,89,29
+2026-09-09,2026,9,Wed,Kowloon,Beverage,5798,3943,207,67
+2026-09-09,2026,9,Wed,Kowloon,Snacks,2283,1598,82,27
+2026-09-09,2026,9,Wed,Kowloon,Household,1983,1428,71,23
+2026-09-09,2026,9,Wed,Kowloon,Fresh,2946,2210,105,34
+2026-09-09,2026,9,Wed,Hong Kong Island,Beverage,4220,2870,151,49
+2026-09-09,2026,9,Wed,Hong Kong Island,Snacks,2560,1792,91,30
+2026-09-09,2026,9,Wed,Hong Kong Island,Household,2285,1645,82,27
+2026-09-09,2026,9,Wed,Hong Kong Island,Fresh,3264,2448,117,38
+2026-09-09,2026,9,Wed,New Territories,Beverage,3367,2290,120,39
+2026-09-09,2026,9,Wed,New Territories,Snacks,2058,1441,74,24
+2026-09-09,2026,9,Wed,New Territories,Household,1790,1289,64,21
+2026-09-09,2026,9,Wed,New Territories,Fresh,2434,1826,87,28
+2026-09-10,2026,9,Thu,Kowloon,Beverage,5524,3756,197,64
+2026-09-10,2026,9,Thu,Kowloon,Snacks,2338,1637,84,27
+2026-09-10,2026,9,Thu,Kowloon,Household,2091,1506,75,24
+2026-09-10,2026,9,Thu,Kowloon,Fresh,2948,2211,105,34
+2026-09-10,2026,9,Thu,Hong Kong Island,Beverage,4012,2728,143,47
+2026-09-10,2026,9,Thu,Hong Kong Island,Snacks,2712,1898,97,32
+2026-09-10,2026,9,Thu,Hong Kong Island,Household,2415,1739,86,28
+2026-09-10,2026,9,Thu,Hong Kong Island,Fresh,3373,2530,120,39
+2026-09-10,2026,9,Thu,New Territories,Beverage,3559,2420,127,41
+2026-09-10,2026,9,Thu,New Territories,Snacks,2116,1481,76,25
+2026-09-10,2026,9,Thu,New Territories,Household,1690,1217,60,20
+2026-09-10,2026,9,Thu,New Territories,Fresh,2380,1785,85,28
+2026-09-11,2026,9,Fri,Kowloon,Beverage,5828,3963,208,68
+2026-09-11,2026,9,Fri,Kowloon,Snacks,2412,1688,86,28
+2026-09-11,2026,9,Fri,Kowloon,Household,2112,1521,75,25
+2026-09-11,2026,9,Fri,Kowloon,Fresh,2937,2203,105,34
+2026-09-11,2026,9,Fri,Hong Kong Island,Beverage,3969,2699,142,46
+2026-09-11,2026,9,Fri,Hong Kong Island,Snacks,2575,1802,92,30
+2026-09-11,2026,9,Fri,Hong Kong Island,Household,2372,1708,85,28
+2026-09-11,2026,9,Fri,Hong Kong Island,Fresh,3372,2529,120,39
+2026-09-11,2026,9,Fri,New Territories,Beverage,3380,2298,121,39
+2026-09-11,2026,9,Fri,New Territories,Snacks,1980,1386,71,23
+2026-09-11,2026,9,Fri,New Territories,Household,1697,1222,61,20
+2026-09-11,2026,9,Fri,New Territories,Fresh,2358,1768,84,27
+2026-09-12,2026,9,Sat,Kowloon,Beverage,5925,4029,212,69
+2026-09-12,2026,9,Sat,Kowloon,Snacks,2535,1774,91,29
+2026-09-12,2026,9,Sat,Kowloon,Household,2282,1643,82,27
+2026-09-12,2026,9,Sat,Kowloon,Fresh,3170,2378,113,37
+2026-09-12,2026,9,Sat,Hong Kong Island,Beverage,4580,3114,164,53
+2026-09-12,2026,9,Sat,Hong Kong Island,Snacks,2891,2024,103,34
+2026-09-12,2026,9,Sat,Hong Kong Island,Household,2494,1796,89,29
+2026-09-12,2026,9,Sat,Hong Kong Island,Fresh,3583,2687,128,42
+2026-09-12,2026,9,Sat,New Territories,Beverage,3625,2465,129,42
+2026-09-12,2026,9,Sat,New Territories,Snacks,2137,1496,76,25
+2026-09-12,2026,9,Sat,New Territories,Household,1806,1300,64,21
+2026-09-12,2026,9,Sat,New Territories,Fresh,2653,1990,95,31
+2026-09-13,2026,9,Sun,Kowloon,Beverage,6146,4179,220,71
+2026-09-13,2026,9,Sun,Kowloon,Snacks,2535,1774,91,29
+2026-09-13,2026,9,Sun,Kowloon,Household,2285,1645,82,27
+2026-09-13,2026,9,Sun,Kowloon,Fresh,3122,2342,112,36
+2026-09-13,2026,9,Sun,Hong Kong Island,Beverage,4538,3086,162,53
+2026-09-13,2026,9,Sun,Hong Kong Island,Snacks,2762,1933,99,32
+2026-09-13,2026,9,Sun,Hong Kong Island,Household,2505,1804,89,29
+2026-09-13,2026,9,Sun,Hong Kong Island,Fresh,3631,2723,130,42
+2026-09-13,2026,9,Sun,New Territories,Beverage,3620,2462,129,42
+2026-09-13,2026,9,Sun,New Territories,Snacks,2184,1529,78,25
+2026-09-13,2026,9,Sun,New Territories,Household,1905,1372,68,22
+2026-09-13,2026,9,Sun,New Territories,Fresh,2651,1988,95,31
+2026-09-14,2026,9,Mon,Kowloon,Beverage,5889,4005,210,68
+2026-09-14,2026,9,Mon,Kowloon,Snacks,2307,1615,82,27
+2026-09-14,2026,9,Mon,Kowloon,Household,1982,1427,71,23
+2026-09-14,2026,9,Mon,Kowloon,Fresh,2865,2149,102,33
+2026-09-14,2026,9,Mon,Hong Kong Island,Beverage,4194,2852,150,49
+2026-09-14,2026,9,Mon,Hong Kong Island,Snacks,2749,1924,98,32
+2026-09-14,2026,9,Mon,Hong Kong Island,Household,2297,1654,82,27
+2026-09-14,2026,9,Mon,Hong Kong Island,Fresh,3230,2422,115,38
+2026-09-14,2026,9,Mon,New Territories,Beverage,3371,2292,120,39
+2026-09-14,2026,9,Mon,New Territories,Snacks,2070,1449,74,24
+2026-09-14,2026,9,Mon,New Territories,Household,1689,1216,60,20
+2026-09-14,2026,9,Mon,New Territories,Fresh,2380,1785,85,28
+2026-09-15,2026,9,Tue,Kowloon,Beverage,5760,3917,206,67
+2026-09-15,2026,9,Tue,Kowloon,Snacks,2410,1687,86,28
+2026-09-15,2026,9,Tue,Kowloon,Household,2104,1515,75,24
+2026-09-15,2026,9,Tue,Kowloon,Fresh,3055,2291,109,36
+2026-09-15,2026,9,Tue,Hong Kong Island,Beverage,4053,2756,145,47
+2026-09-15,2026,9,Tue,Hong Kong Island,Snacks,2677,1874,96,31
+2026-09-15,2026,9,Tue,Hong Kong Island,Household,2336,1682,83,27
+2026-09-15,2026,9,Tue,Hong Kong Island,Fresh,3359,2519,120,39
+2026-09-15,2026,9,Tue,New Territories,Beverage,3444,2342,123,40
+2026-09-15,2026,9,Tue,New Territories,Snacks,2011,1408,72,23
+2026-09-15,2026,9,Tue,New Territories,Household,1719,1238,61,20
+2026-09-15,2026,9,Tue,New Territories,Fresh,2365,1774,84,28
+2026-09-16,2026,9,Wed,Kowloon,Beverage,5835,3968,208,68
+2026-09-16,2026,9,Wed,Kowloon,Snacks,2303,1612,82,27
+2026-09-16,2026,9,Wed,Kowloon,Household,1998,1439,71,23
+2026-09-16,2026,9,Wed,Kowloon,Fresh,2917,2188,104,34
+2026-09-16,2026,9,Wed,Hong Kong Island,Beverage,3922,2667,140,46
+2026-09-16,2026,9,Wed,Hong Kong Island,Snacks,2736,1915,98,32
+2026-09-16,2026,9,Wed,Hong Kong Island,Household,2372,1708,85,28
+2026-09-16,2026,9,Wed,Hong Kong Island,Fresh,3393,2545,121,39
+2026-09-16,2026,9,Wed,New Territories,Beverage,3543,2409,127,41
+2026-09-16,2026,9,Wed,New Territories,Snacks,1983,1388,71,23
+2026-09-16,2026,9,Wed,New Territories,Household,1793,1291,64,21
+2026-09-16,2026,9,Wed,New Territories,Fresh,2397,1798,86,28
+2026-09-17,2026,9,Thu,Kowloon,Beverage,5809,3950,207,68
+2026-09-17,2026,9,Thu,Kowloon,Snacks,2415,1690,86,28
+2026-09-17,2026,9,Thu,Kowloon,Household,2022,1456,72,24
+2026-09-17,2026,9,Thu,Kowloon,Fresh,3028,2271,108,35
+2026-09-17,2026,9,Thu,Hong Kong Island,Beverage,3918,2664,140,46
+2026-09-17,2026,9,Thu,Hong Kong Island,Snacks,2705,1893,97,31
+2026-09-17,2026,9,Thu,Hong Kong Island,Household,2420,1742,86,28
+2026-09-17,2026,9,Thu,Hong Kong Island,Fresh,3169,2377,113,37
+2026-09-17,2026,9,Thu,New Territories,Beverage,3460,2353,124,40
+2026-09-17,2026,9,Thu,New Territories,Snacks,2049,1434,73,24
+2026-09-17,2026,9,Thu,New Territories,Household,1789,1288,64,21
+2026-09-17,2026,9,Thu,New Territories,Fresh,2444,1833,87,28
+2026-09-18,2026,9,Fri,Kowloon,Beverage,5586,3798,200,65
+2026-09-18,2026,9,Fri,Kowloon,Snacks,2312,1618,83,27
+2026-09-18,2026,9,Fri,Kowloon,Household,2009,1446,72,23
+2026-09-18,2026,9,Fri,Kowloon,Fresh,2866,2150,102,33
+2026-09-18,2026,9,Fri,Hong Kong Island,Beverage,3957,2691,141,46
+2026-09-18,2026,9,Fri,Hong Kong Island,Snacks,2577,1804,92,30
+2026-09-18,2026,9,Fri,Hong Kong Island,Household,2360,1699,84,27
+2026-09-18,2026,9,Fri,Hong Kong Island,Fresh,3306,2480,118,38
+2026-09-18,2026,9,Fri,New Territories,Beverage,3606,2452,129,42
+2026-09-18,2026,9,Fri,New Territories,Snacks,2062,1443,74,24
+2026-09-18,2026,9,Fri,New Territories,Household,1677,1207,60,20
+2026-09-18,2026,9,Fri,New Territories,Fresh,2334,1750,83,27
+2026-09-19,2026,9,Sat,Kowloon,Beverage,6317,4296,226,73
+2026-09-19,2026,9,Sat,Kowloon,Snacks,2494,1746,89,29
+2026-09-19,2026,9,Sat,Kowloon,Household,2262,1629,81,26
+2026-09-19,2026,9,Sat,Kowloon,Fresh,3314,2486,118,39
+2026-09-19,2026,9,Sat,Hong Kong Island,Beverage,4521,3074,161,53
+2026-09-19,2026,9,Sat,Hong Kong Island,Snacks,2881,2017,103,34
+2026-09-19,2026,9,Sat,Hong Kong Island,Household,2515,1811,90,29
+2026-09-19,2026,9,Sat,Hong Kong Island,Fresh,3558,2668,127,41
+2026-09-19,2026,9,Sat,New Territories,Beverage,3890,2645,139,45
+2026-09-19,2026,9,Sat,New Territories,Snacks,2161,1513,77,25
+2026-09-19,2026,9,Sat,New Territories,Household,1900,1368,68,22
+2026-09-19,2026,9,Sat,New Territories,Fresh,2620,1965,94,30
+2026-09-20,2026,9,Sun,Kowloon,Beverage,6144,4178,219,71
+2026-09-20,2026,9,Sun,Kowloon,Snacks,2520,1764,90,29
+2026-09-20,2026,9,Sun,Kowloon,Household,2121,1527,76,25
+2026-09-20,2026,9,Sun,Kowloon,Fresh,3320,2490,119,39
+2026-09-20,2026,9,Sun,Hong Kong Island,Beverage,4359,2964,156,51
+2026-09-20,2026,9,Sun,Hong Kong Island,Snacks,2924,2047,104,34
+2026-09-20,2026,9,Sun,Hong Kong Island,Household,2482,1787,89,29
+2026-09-20,2026,9,Sun,Hong Kong Island,Fresh,3510,2632,125,41
+2026-09-20,2026,9,Sun,New Territories,Beverage,3624,2464,129,42
+2026-09-20,2026,9,Sun,New Territories,Snacks,2258,1581,81,26
+2026-09-20,2026,9,Sun,New Territories,Household,1944,1400,69,23
+2026-09-20,2026,9,Sun,New Territories,Fresh,2668,2001,95,31
+2026-09-21,2026,9,Mon,Kowloon,Beverage,5729,3896,205,67
+2026-09-21,2026,9,Mon,Kowloon,Snacks,2342,1639,84,27
+2026-09-21,2026,9,Mon,Kowloon,Household,2030,1462,72,24
+2026-09-21,2026,9,Mon,Kowloon,Fresh,3000,2250,107,35
+2026-09-21,2026,9,Mon,Hong Kong Island,Beverage,3971,2700,142,46
+2026-09-21,2026,9,Mon,Hong Kong Island,Snacks,2676,1873,96,31
+2026-09-21,2026,9,Mon,Hong Kong Island,Household,2317,1668,83,27
+2026-09-21,2026,9,Mon,Hong Kong Island,Fresh,3220,2415,115,37
+2026-09-21,2026,9,Mon,New Territories,Beverage,3534,2403,126,41
+2026-09-21,2026,9,Mon,New Territories,Snacks,2114,1480,76,25
+2026-09-21,2026,9,Mon,New Territories,Household,1719,1238,61,20
+2026-09-21,2026,9,Mon,New Territories,Fresh,2345,1759,84,27
+2026-09-22,2026,9,Tue,Kowloon,Beverage,5800,3944,207,67
+2026-09-22,2026,9,Tue,Kowloon,Snacks,2389,1672,85,28
+2026-09-22,2026,9,Tue,Kowloon,Household,2005,1444,72,23
+2026-09-22,2026,9,Tue,Kowloon,Fresh,2939,2204,105,34
+2026-09-22,2026,9,Tue,Hong Kong Island,Beverage,4144,2818,148,48
+2026-09-22,2026,9,Tue,Hong Kong Island,Snacks,2681,1877,96,31
+2026-09-22,2026,9,Tue,Hong Kong Island,Household,2418,1741,86,28
+2026-09-22,2026,9,Tue,Hong Kong Island,Fresh,3255,2441,116,38
+2026-09-22,2026,9,Tue,New Territories,Beverage,3402,2313,122,40
+2026-09-22,2026,9,Tue,New Territories,Snacks,1959,1371,70,23
+2026-09-22,2026,9,Tue,New Territories,Household,1723,1241,62,20
+2026-09-22,2026,9,Tue,New Territories,Fresh,2438,1828,87,28
+2026-09-23,2026,9,Wed,Kowloon,Beverage,5866,3989,210,68
+2026-09-23,2026,9,Wed,Kowloon,Snacks,2388,1672,85,28
+2026-09-23,2026,9,Wed,Kowloon,Household,1960,1411,70,23
+2026-09-23,2026,9,Wed,Kowloon,Fresh,2898,2174,104,34
+2026-09-23,2026,9,Wed,Hong Kong Island,Beverage,4054,2757,145,47
+2026-09-23,2026,9,Wed,Hong Kong Island,Snacks,2649,1854,95,31
+2026-09-23,2026,9,Wed,Hong Kong Island,Household,2370,1706,85,28
+2026-09-23,2026,9,Wed,Hong Kong Island,Fresh,3206,2404,114,37
+2026-09-23,2026,9,Wed,New Territories,Beverage,3599,2447,129,42
+2026-09-23,2026,9,Wed,New Territories,Snacks,2068,1448,74,24
+2026-09-23,2026,9,Wed,New Territories,Household,1782,1283,64,21
+2026-09-23,2026,9,Wed,New Territories,Fresh,2324,1743,83,27
+2026-09-24,2026,9,Thu,Kowloon,Beverage,5533,3762,198,64
+2026-09-24,2026,9,Thu,Kowloon,Snacks,2253,1577,80,26
+2026-09-24,2026,9,Thu,Kowloon,Household,2086,1502,74,24
+2026-09-24,2026,9,Thu,Kowloon,Fresh,3037,2278,108,35
+2026-09-24,2026,9,Thu,Hong Kong Island,Beverage,4157,2827,148,48
+2026-09-24,2026,9,Thu,Hong Kong Island,Snacks,2647,1853,95,31
+2026-09-24,2026,9,Thu,Hong Kong Island,Household,2345,1688,84,27
+2026-09-24,2026,9,Thu,Hong Kong Island,Fresh,3211,2408,115,37
+2026-09-24,2026,9,Thu,New Territories,Beverage,3551,2415,127,41
+2026-09-24,2026,9,Thu,New Territories,Snacks,2082,1457,74,24
+2026-09-24,2026,9,Thu,New Territories,Household,1757,1265,63,20
+2026-09-24,2026,9,Thu,New Territories,Fresh,2402,1802,86,28
+2026-09-25,2026,9,Fri,Kowloon,Beverage,5873,3994,210,68
+2026-09-25,2026,9,Fri,Kowloon,Snacks,2269,1588,81,26
+2026-09-25,2026,9,Fri,Kowloon,Household,1983,1428,71,23
+2026-09-25,2026,9,Fri,Kowloon,Fresh,3046,2284,109,35
+2026-09-25,2026,9,Fri,Hong Kong Island,Beverage,3954,2689,141,46
+2026-09-25,2026,9,Fri,Hong Kong Island,Snacks,2698,1889,96,31
+2026-09-25,2026,9,Fri,Hong Kong Island,Household,2264,1630,81,26
+2026-09-25,2026,9,Fri,Hong Kong Island,Fresh,3156,2367,113,37
+2026-09-25,2026,9,Fri,New Territories,Beverage,3429,2332,122,40
+2026-09-25,2026,9,Fri,New Territories,Snacks,1960,1372,70,23
+2026-09-25,2026,9,Fri,New Territories,Household,1710,1231,61,20
+2026-09-25,2026,9,Fri,New Territories,Fresh,2352,1764,84,27
+2026-09-26,2026,9,Sat,Kowloon,Beverage,6286,4274,224,73
+2026-09-26,2026,9,Sat,Kowloon,Snacks,2627,1839,94,31
+2026-09-26,2026,9,Sat,Kowloon,Household,2222,1600,79,26
+2026-09-26,2026,9,Sat,Kowloon,Fresh,3274,2456,117,38
+2026-09-26,2026,9,Sat,Hong Kong Island,Beverage,4529,3080,162,53
+2026-09-26,2026,9,Sat,Hong Kong Island,Snacks,2895,2026,103,34
+2026-09-26,2026,9,Sat,Hong Kong Island,Household,2507,1805,90,29
+2026-09-26,2026,9,Sat,Hong Kong Island,Fresh,3649,2737,130,42
+2026-09-26,2026,9,Sat,New Territories,Beverage,3819,2597,136,44
+2026-09-26,2026,9,Sat,New Territories,Snacks,2168,1518,77,25
+2026-09-26,2026,9,Sat,New Territories,Household,1931,1390,69,22
+2026-09-26,2026,9,Sat,New Territories,Fresh,2493,1870,89,29
+2026-09-27,2026,9,Sun,Kowloon,Beverage,6022,4095,215,70
+2026-09-27,2026,9,Sun,Kowloon,Snacks,2437,1706,87,28
+2026-09-27,2026,9,Sun,Kowloon,Household,2167,1560,77,25
+2026-09-27,2026,9,Sun,Kowloon,Fresh,3218,2414,115,37
+2026-09-27,2026,9,Sun,Hong Kong Island,Beverage,4452,3027,159,52
+2026-09-27,2026,9,Sun,Hong Kong Island,Snacks,2967,2077,106,34
+2026-09-27,2026,9,Sun,Hong Kong Island,Household,2571,1851,92,30
+2026-09-27,2026,9,Sun,Hong Kong Island,Fresh,3555,2666,127,41
+2026-09-27,2026,9,Sun,New Territories,Beverage,3732,2538,133,43
+2026-09-27,2026,9,Sun,New Territories,Snacks,2283,1598,82,27
+2026-09-27,2026,9,Sun,New Territories,Household,1805,1300,64,21
+2026-09-27,2026,9,Sun,New Territories,Fresh,2607,1955,93,30
+2026-09-28,2026,9,Mon,Kowloon,Beverage,5618,3820,201,65
+2026-09-28,2026,9,Mon,Kowloon,Snacks,2346,1642,84,27
+2026-09-28,2026,9,Mon,Kowloon,Household,2118,1525,76,25
+2026-09-28,2026,9,Mon,Kowloon,Fresh,3063,2297,109,36
+2026-09-28,2026,9,Mon,Hong Kong Island,Beverage,3989,2713,142,46
+2026-09-28,2026,9,Mon,Hong Kong Island,Snacks,2584,1809,92,30
+2026-09-28,2026,9,Mon,Hong Kong Island,Household,2312,1665,83,27
+2026-09-28,2026,9,Mon,Hong Kong Island,Fresh,3198,2398,114,37
+2026-09-28,2026,9,Mon,New Territories,Beverage,3343,2273,119,39
+2026-09-28,2026,9,Mon,New Territories,Snacks,1990,1393,71,23
+2026-09-28,2026,9,Mon,New Territories,Household,1781,1282,64,21
+2026-09-28,2026,9,Mon,New Territories,Fresh,2389,1792,85,28
+2026-09-29,2026,9,Tue,Kowloon,Beverage,5620,3822,201,65
+2026-09-29,2026,9,Tue,Kowloon,Snacks,2334,1634,83,27
+2026-09-29,2026,9,Tue,Kowloon,Household,2029,1461,72,24
+2026-09-29,2026,9,Tue,Kowloon,Fresh,2874,2156,103,33
+2026-09-29,2026,9,Tue,Hong Kong Island,Beverage,3981,2707,142,46
+2026-09-29,2026,9,Tue,Hong Kong Island,Snacks,2740,1918,98,32
+2026-09-29,2026,9,Tue,Hong Kong Island,Household,2421,1743,86,28
+2026-09-29,2026,9,Tue,Hong Kong Island,Fresh,3212,2409,115,37
+2026-09-29,2026,9,Tue,New Territories,Beverage,3433,2334,123,40
+2026-09-29,2026,9,Tue,New Territories,Snacks,2011,1408,72,23
+2026-09-29,2026,9,Tue,New Territories,Household,1673,1205,60,19
+2026-09-29,2026,9,Tue,New Territories,Fresh,2371,1778,85,28
+2026-09-30,2026,9,Wed,Kowloon,Beverage,5665,3852,202,66
+2026-09-30,2026,9,Wed,Kowloon,Snacks,2257,1580,81,26
+2026-09-30,2026,9,Wed,Kowloon,Household,1995,1436,71,23
+2026-09-30,2026,9,Wed,Kowloon,Fresh,2859,2144,102,33
+2026-09-30,2026,9,Wed,Hong Kong Island,Beverage,4201,2857,150,49
+2026-09-30,2026,9,Wed,Hong Kong Island,Snacks,2595,1816,93,30
+2026-09-30,2026,9,Wed,Hong Kong Island,Household,2362,1701,84,27
+2026-09-30,2026,9,Wed,Hong Kong Island,Fresh,3300,2475,118,38
+2026-09-30,2026,9,Wed,New Territories,Beverage,3490,2373,125,41
+2026-09-30,2026,9,Wed,New Territories,Snacks,2063,1444,74,24
+2026-09-30,2026,9,Wed,New Territories,Household,1686,1214,60,20
+2026-09-30,2026,9,Wed,New Territories,Fresh,2368,1776,85,28
+2026-10-01,2026,10,Thu,Kowloon,Beverage,5449,3705,195,63
+2026-10-01,2026,10,Thu,Kowloon,Snacks,2332,1632,83,27
+2026-10-01,2026,10,Thu,Kowloon,Household,2021,1455,72,24
+2026-10-01,2026,10,Thu,Kowloon,Fresh,2852,2139,102,33
+2026-10-01,2026,10,Thu,Hong Kong Island,Beverage,4189,2849,150,49
+2026-10-01,2026,10,Thu,Hong Kong Island,Snacks,2701,1891,96,31
+2026-10-01,2026,10,Thu,Hong Kong Island,Household,2301,1657,82,27
+2026-10-01,2026,10,Thu,Hong Kong Island,Fresh,3241,2431,116,38
+2026-10-01,2026,10,Thu,New Territories,Beverage,3430,2332,122,40
+2026-10-01,2026,10,Thu,New Territories,Snacks,2058,1441,74,24
+2026-10-01,2026,10,Thu,New Territories,Household,1735,1249,62,20
+2026-10-01,2026,10,Thu,New Territories,Fresh,2660,1995,95,31
+2026-10-02,2026,10,Fri,Kowloon,Beverage,5733,3898,205,67
+2026-10-02,2026,10,Fri,Kowloon,Snacks,2239,1567,80,26
+2026-10-02,2026,10,Fri,Kowloon,Household,1981,1426,71,23
+2026-10-02,2026,10,Fri,Kowloon,Fresh,2930,2198,105,34
+2026-10-02,2026,10,Fri,Hong Kong Island,Beverage,4165,2832,149,48
+2026-10-02,2026,10,Fri,Hong Kong Island,Snacks,2619,1833,94,30
+2026-10-02,2026,10,Fri,Hong Kong Island,Household,2387,1719,85,28
+2026-10-02,2026,10,Fri,Hong Kong Island,Fresh,3239,2429,116,38
+2026-10-02,2026,10,Fri,New Territories,Beverage,3344,2274,119,39
+2026-10-02,2026,10,Fri,New Territories,Snacks,2035,1424,73,24
+2026-10-02,2026,10,Fri,New Territories,Household,1675,1206,60,19
+2026-10-02,2026,10,Fri,New Territories,Fresh,2589,1942,92,30
+2026-10-03,2026,10,Sat,Kowloon,Beverage,6075,4131,217,71
+2026-10-03,2026,10,Sat,Kowloon,Snacks,2559,1791,91,30
+2026-10-03,2026,10,Sat,Kowloon,Household,2151,1549,77,25
+2026-10-03,2026,10,Sat,Kowloon,Fresh,3130,2348,112,36
+2026-10-03,2026,10,Sat,Hong Kong Island,Beverage,4533,3082,162,53
+2026-10-03,2026,10,Sat,Hong Kong Island,Snacks,2756,1929,98,32
+2026-10-03,2026,10,Sat,Hong Kong Island,Household,2496,1797,89,29
+2026-10-03,2026,10,Sat,Hong Kong Island,Fresh,3498,2624,125,41
+2026-10-03,2026,10,Sat,New Territories,Beverage,3855,2621,138,45
+2026-10-03,2026,10,Sat,New Territories,Snacks,2105,1474,75,24
+2026-10-03,2026,10,Sat,New Territories,Household,1789,1288,64,21
+2026-10-03,2026,10,Sat,New Territories,Fresh,2881,2161,103,34
+2026-10-04,2026,10,Sun,Kowloon,Beverage,5937,4037,212,69
+2026-10-04,2026,10,Sun,Kowloon,Snacks,2481,1737,89,29
+2026-10-04,2026,10,Sun,Kowloon,Household,2219,1598,79,26
+2026-10-04,2026,10,Sun,Kowloon,Fresh,3219,2414,115,37
+2026-10-04,2026,10,Sun,Hong Kong Island,Beverage,4270,2904,152,50
+2026-10-04,2026,10,Sun,Hong Kong Island,Snacks,2818,1973,101,33
+2026-10-04,2026,10,Sun,Hong Kong Island,Household,2557,1841,91,30
+2026-10-04,2026,10,Sun,Hong Kong Island,Fresh,3559,2669,127,41
+2026-10-04,2026,10,Sun,New Territories,Beverage,3689,2509,132,43
+2026-10-04,2026,10,Sun,New Territories,Snacks,2216,1551,79,26
+2026-10-04,2026,10,Sun,New Territories,Household,1795,1292,64,21
+2026-10-04,2026,10,Sun,New Territories,Fresh,2810,2108,100,33
+2026-10-05,2026,10,Mon,Kowloon,Beverage,5434,3695,194,63
+2026-10-05,2026,10,Mon,Kowloon,Snacks,2256,1579,81,26
+2026-10-05,2026,10,Mon,Kowloon,Household,1940,1397,69,23
+2026-10-05,2026,10,Mon,Kowloon,Fresh,2825,2119,101,33
+2026-10-05,2026,10,Mon,Hong Kong Island,Beverage,4127,2806,147,48
+2026-10-05,2026,10,Mon,Hong Kong Island,Snacks,2665,1865,95,31
+2026-10-05,2026,10,Mon,Hong Kong Island,Household,2282,1643,82,27
+2026-10-05,2026,10,Mon,Hong Kong Island,Fresh,3353,2515,120,39
+2026-10-05,2026,10,Mon,New Territories,Beverage,3387,2303,121,39
+2026-10-05,2026,10,Mon,New Territories,Snacks,2076,1453,74,24
+2026-10-05,2026,10,Mon,New Territories,Household,1670,1202,60,19
+2026-10-05,2026,10,Mon,New Territories,Fresh,2523,1892,90,29
+2026-10-06,2026,10,Tue,Kowloon,Beverage,5752,3911,205,67
+2026-10-06,2026,10,Tue,Kowloon,Snacks,2338,1637,84,27
+2026-10-06,2026,10,Tue,Kowloon,Household,2078,1496,74,24
+2026-10-06,2026,10,Tue,Kowloon,Fresh,2902,2176,104,34
+2026-10-06,2026,10,Tue,Hong Kong Island,Beverage,4115,2798,147,48
+2026-10-06,2026,10,Tue,Hong Kong Island,Snacks,2667,1867,95,31
+2026-10-06,2026,10,Tue,Hong Kong Island,Household,2339,1684,84,27
+2026-10-06,2026,10,Tue,Hong Kong Island,Fresh,3187,2390,114,37
+2026-10-06,2026,10,Tue,New Territories,Beverage,3530,2400,126,41
+2026-10-06,2026,10,Tue,New Territories,Snacks,2074,1452,74,24
+2026-10-06,2026,10,Tue,New Territories,Household,1704,1227,61,20
+2026-10-06,2026,10,Tue,New Territories,Fresh,2602,1952,93,30
+2026-10-07,2026,10,Wed,Kowloon,Beverage,5654,3845,202,66
+2026-10-07,2026,10,Wed,Kowloon,Snacks,2339,1637,84,27
+2026-10-07,2026,10,Wed,Kowloon,Household,2076,1495,74,24
+2026-10-07,2026,10,Wed,Kowloon,Fresh,3029,2272,108,35
+2026-10-07,2026,10,Wed,Hong Kong Island,Beverage,4184,2845,149,49
+2026-10-07,2026,10,Wed,Hong Kong Island,Snacks,2547,1783,91,30
+2026-10-07,2026,10,Wed,Hong Kong Island,Household,2331,1678,83,27
+2026-10-07,2026,10,Wed,Hong Kong Island,Fresh,3257,2443,116,38
+2026-10-07,2026,10,Wed,New Territories,Beverage,3544,2410,127,41
+2026-10-07,2026,10,Wed,New Territories,Snacks,2019,1413,72,23
+2026-10-07,2026,10,Wed,New Territories,Household,1721,1239,61,20
+2026-10-07,2026,10,Wed,New Territories,Fresh,2680,2010,96,31
+2026-10-08,2026,10,Thu,Kowloon,Beverage,5853,3980,209,68
+2026-10-08,2026,10,Thu,Kowloon,Snacks,2244,1571,80,26
+2026-10-08,2026,10,Thu,Kowloon,Household,1963,1413,70,23
+2026-10-08,2026,10,Thu,Kowloon,Fresh,2829,2122,101,33
+2026-10-08,2026,10,Thu,Hong Kong Island,Beverage,3977,2704,142,46
+2026-10-08,2026,10,Thu,Hong Kong Island,Snacks,2613,1829,93,30
+2026-10-08,2026,10,Thu,Hong Kong Island,Household,2298,1655,82,27
+2026-10-08,2026,10,Thu,Hong Kong Island,Fresh,3261,2446,116,38
+2026-10-08,2026,10,Thu,New Territories,Beverage,3327,2262,119,39
+2026-10-08,2026,10,Thu,New Territories,Snacks,1955,1368,70,23
+2026-10-08,2026,10,Thu,New Territories,Household,1771,1275,63,21
+2026-10-08,2026,10,Thu,New Territories,Fresh,2643,1982,94,31
+2026-10-09,2026,10,Fri,Kowloon,Beverage,5699,3875,204,66
+2026-10-09,2026,10,Fri,Kowloon,Snacks,2321,1625,83,27
+2026-10-09,2026,10,Fri,Kowloon,Household,2069,1490,74,24
+2026-10-09,2026,10,Fri,Kowloon,Fresh,2987,2240,107,35
+2026-10-09,2026,10,Fri,Hong Kong Island,Beverage,3906,2656,140,45
+2026-10-09,2026,10,Fri,Hong Kong Island,Snacks,2712,1898,97,32
+2026-10-09,2026,10,Fri,Hong Kong Island,Household,2308,1662,82,27
+2026-10-09,2026,10,Fri,Hong Kong Island,Fresh,3287,2465,117,38
+2026-10-09,2026,10,Fri,New Territories,Beverage,3384,2301,121,39
+2026-10-09,2026,10,Fri,New Territories,Snacks,2060,1442,74,24
+2026-10-09,2026,10,Fri,New Territories,Household,1780,1282,64,21
+2026-10-09,2026,10,Fri,New Territories,Fresh,2625,1969,94,31
+2026-10-10,2026,10,Sat,Kowloon,Beverage,5932,4034,212,69
+2026-10-10,2026,10,Sat,Kowloon,Snacks,2530,1771,90,29
+2026-10-10,2026,10,Sat,Kowloon,Household,2186,1574,78,25
+2026-10-10,2026,10,Sat,Kowloon,Fresh,3200,2400,114,37
+2026-10-10,2026,10,Sat,Hong Kong Island,Beverage,4389,2985,157,51
+2026-10-10,2026,10,Sat,Hong Kong Island,Snacks,2853,1997,102,33
+2026-10-10,2026,10,Sat,Hong Kong Island,Household,2478,1784,88,29
+2026-10-10,2026,10,Sat,Hong Kong Island,Fresh,3496,2622,125,41
+2026-10-10,2026,10,Sat,New Territories,Beverage,3826,2602,137,44
+2026-10-10,2026,10,Sat,New Territories,Snacks,2110,1477,75,25
+2026-10-10,2026,10,Sat,New Territories,Household,1782,1283,64,21
+2026-10-10,2026,10,Sat,New Territories,Fresh,2865,2149,102,33
+2026-10-11,2026,10,Sun,Kowloon,Beverage,5986,4070,214,70
+2026-10-11,2026,10,Sun,Kowloon,Snacks,2440,1708,87,28
+2026-10-11,2026,10,Sun,Kowloon,Household,2225,1602,79,26
+2026-10-11,2026,10,Sun,Kowloon,Fresh,3203,2402,114,37
+2026-10-11,2026,10,Sun,Hong Kong Island,Beverage,4469,3039,160,52
+2026-10-11,2026,10,Sun,Hong Kong Island,Snacks,2813,1969,100,33
+2026-10-11,2026,10,Sun,Hong Kong Island,Household,2414,1738,86,28
+2026-10-11,2026,10,Sun,Hong Kong Island,Fresh,3470,2602,124,40
+2026-10-11,2026,10,Sun,New Territories,Beverage,3659,2488,131,43
+2026-10-11,2026,10,Sun,New Territories,Snacks,2191,1534,78,25
+2026-10-11,2026,10,Sun,New Territories,Household,1873,1349,67,22
+2026-10-11,2026,10,Sun,New Territories,Fresh,2878,2158,103,33
+2026-10-12,2026,10,Mon,Kowloon,Beverage,5744,3906,205,67
+2026-10-12,2026,10,Mon,Kowloon,Snacks,2352,1646,84,27
+2026-10-12,2026,10,Mon,Kowloon,Household,2062,1485,74,24
+2026-10-12,2026,10,Mon,Kowloon,Fresh,2840,2130,101,33
+2026-10-12,2026,10,Mon,Hong Kong Island,Beverage,4052,2755,145,47
+2026-10-12,2026,10,Mon,Hong Kong Island,Snacks,2529,1770,90,29
+2026-10-12,2026,10,Mon,Hong Kong Island,Household,2283,1644,82,27
+2026-10-12,2026,10,Mon,Hong Kong Island,Fresh,3205,2404,114,37
+2026-10-12,2026,10,Mon,New Territories,Beverage,3410,2319,122,40
+2026-10-12,2026,10,Mon,New Territories,Snacks,1996,1397,71,23
+2026-10-12,2026,10,Mon,New Territories,Household,1747,1258,62,20
+2026-10-12,2026,10,Mon,New Territories,Fresh,2611,1958,93,30
+2026-10-13,2026,10,Tue,Kowloon,Beverage,5805,3947,207,68
+2026-10-13,2026,10,Tue,Kowloon,Snacks,2242,1569,80,26
+2026-10-13,2026,10,Tue,Kowloon,Household,2099,1511,75,24
+2026-10-13,2026,10,Tue,Kowloon,Fresh,2999,2249,107,35
+2026-10-13,2026,10,Tue,Hong Kong Island,Beverage,3883,2640,139,45
+2026-10-13,2026,10,Tue,Hong Kong Island,Snacks,2621,1835,94,30
+2026-10-13,2026,10,Tue,Hong Kong Island,Household,2393,1723,85,28
+2026-10-13,2026,10,Tue,Hong Kong Island,Fresh,3163,2372,113,37
+2026-10-13,2026,10,Tue,New Territories,Beverage,3503,2382,125,41
+2026-10-13,2026,10,Tue,New Territories,Snacks,2036,1425,73,24
+2026-10-13,2026,10,Tue,New Territories,Household,1736,1250,62,20
+2026-10-13,2026,10,Tue,New Territories,Fresh,2687,2015,96,31
+2026-10-14,2026,10,Wed,Kowloon,Beverage,5811,3951,208,68
+2026-10-14,2026,10,Wed,Kowloon,Snacks,2272,1590,81,26
+2026-10-14,2026,10,Wed,Kowloon,Household,2100,1512,75,24
+2026-10-14,2026,10,Wed,Kowloon,Fresh,2930,2198,105,34
+2026-10-14,2026,10,Wed,Hong Kong Island,Beverage,4095,2785,146,48
+2026-10-14,2026,10,Wed,Hong Kong Island,Snacks,2686,1880,96,31
+2026-10-14,2026,10,Wed,Hong Kong Island,Household,2385,1717,85,28
+2026-10-14,2026,10,Wed,Hong Kong Island,Fresh,3170,2378,113,37
+2026-10-14,2026,10,Wed,New Territories,Beverage,3441,2340,123,40
+2026-10-14,2026,10,Wed,New Territories,Snacks,1961,1373,70,23
+2026-10-14,2026,10,Wed,New Territories,Household,1681,1210,60,20
+2026-10-14,2026,10,Wed,New Territories,Fresh,2608,1956,93,30
+2026-10-15,2026,10,Thu,Kowloon,Beverage,5821,3958,208,68
+2026-10-15,2026,10,Thu,Kowloon,Snacks,2245,1572,80,26
+2026-10-15,2026,10,Thu,Kowloon,Household,1966,1416,70,23
+2026-10-15,2026,10,Thu,Kowloon,Fresh,2990,2242,107,35
+2026-10-15,2026,10,Thu,Hong Kong Island,Beverage,4128,2807,147,48
+2026-10-15,2026,10,Thu,Hong Kong Island,Snacks,2614,1830,93,30
+2026-10-15,2026,10,Thu,Hong Kong Island,Household,2335,1681,83,27
+2026-10-15,2026,10,Thu,Hong Kong Island,Fresh,3127,2345,112,36
+2026-10-15,2026,10,Thu,New Territories,Beverage,3532,2402,126,41
+2026-10-15,2026,10,Thu,New Territories,Snacks,2089,1462,75,24
+2026-10-15,2026,10,Thu,New Territories,Household,1780,1282,64,21
+2026-10-15,2026,10,Thu,New Territories,Fresh,2606,1954,93,30
+2026-10-16,2026,10,Fri,Kowloon,Beverage,5473,3722,195,64
+2026-10-16,2026,10,Fri,Kowloon,Snacks,2306,1614,82,27
+2026-10-16,2026,10,Fri,Kowloon,Household,2042,1470,73,24
+2026-10-16,2026,10,Fri,Kowloon,Fresh,2845,2134,102,33
+2026-10-16,2026,10,Fri,Hong Kong Island,Beverage,3941,2680,141,46
+2026-10-16,2026,10,Fri,Hong Kong Island,Snacks,2578,1805,92,30
+2026-10-16,2026,10,Fri,Hong Kong Island,Household,2315,1667,83,27
+2026-10-16,2026,10,Fri,Hong Kong Island,Fresh,3224,2418,115,37
+2026-10-16,2026,10,Fri,New Territories,Beverage,3571,2428,128,42
+2026-10-16,2026,10,Fri,New Territories,Snacks,2074,1452,74,24
+2026-10-16,2026,10,Fri,New Territories,Household,1760,1267,63,20
+2026-10-16,2026,10,Fri,New Territories,Fresh,2647,1985,95,31
+2026-10-17,2026,10,Sat,Kowloon,Beverage,6125,4165,219,71
+2026-10-17,2026,10,Sat,Kowloon,Snacks,2529,1770,90,29
+2026-10-17,2026,10,Sat,Kowloon,Household,2176,1567,78,25
+2026-10-17,2026,10,Sat,Kowloon,Fresh,3078,2308,110,36
+2026-10-17,2026,10,Sat,Hong Kong Island,Beverage,4531,3081,162,53
+2026-10-17,2026,10,Sat,Hong Kong Island,Snacks,2812,1968,100,33
+2026-10-17,2026,10,Sat,Hong Kong Island,Household,2472,1780,88,29
+2026-10-17,2026,10,Sat,Hong Kong Island,Fresh,3540,2655,126,41
+2026-10-17,2026,10,Sat,New Territories,Beverage,3676,2500,131,43
+2026-10-17,2026,10,Sat,New Territories,Snacks,2262,1583,81,26
+2026-10-17,2026,10,Sat,New Territories,Household,1909,1374,68,22
+2026-10-17,2026,10,Sat,New Territories,Fresh,2948,2211,105,34
+2026-10-18,2026,10,Sun,Kowloon,Beverage,6065,4124,217,71
+2026-10-18,2026,10,Sun,Kowloon,Snacks,2434,1704,87,28
+2026-10-18,2026,10,Sun,Kowloon,Household,2263,1629,81,26
+2026-10-18,2026,10,Sun,Kowloon,Fresh,3155,2366,113,37
+2026-10-18,2026,10,Sun,Hong Kong Island,Beverage,4315,2934,154,50
+2026-10-18,2026,10,Sun,Hong Kong Island,Snacks,2887,2021,103,34
+2026-10-18,2026,10,Sun,Hong Kong Island,Household,2588,1863,92,30
+2026-10-18,2026,10,Sun,Hong Kong Island,Fresh,3360,2520,120,39
+2026-10-18,2026,10,Sun,New Territories,Beverage,3577,2432,128,42
+2026-10-18,2026,10,Sun,New Territories,Snacks,2255,1578,81,26
+2026-10-18,2026,10,Sun,New Territories,Household,1796,1293,64,21
+2026-10-18,2026,10,Sun,New Territories,Fresh,2782,2086,99,32
+2026-10-19,2026,10,Mon,Kowloon,Beverage,5797,3942,207,67
+2026-10-19,2026,10,Mon,Kowloon,Snacks,2290,1603,82,27
+2026-10-19,2026,10,Mon,Kowloon,Household,2076,1495,74,24
+2026-10-19,2026,10,Mon,Kowloon,Fresh,2869,2152,102,33
+2026-10-19,2026,10,Mon,Hong Kong Island,Beverage,4147,2820,148,48
+2026-10-19,2026,10,Mon,Hong Kong Island,Snacks,2695,1886,96,31
+2026-10-19,2026,10,Mon,Hong Kong Island,Household,2414,1738,86,28
+2026-10-19,2026,10,Mon,Hong Kong Island,Fresh,3311,2483,118,38
+2026-10-19,2026,10,Mon,New Territories,Beverage,3320,2258,119,39
+2026-10-19,2026,10,Mon,New Territories,Snacks,1976,1383,71,23
+2026-10-19,2026,10,Mon,New Territories,Household,1662,1197,59,19
+2026-10-19,2026,10,Mon,New Territories,Fresh,2643,1982,94,31
+2026-10-20,2026,10,Tue,Kowloon,Beverage,2537,2030,91,30
+2026-10-20,2026,10,Tue,Kowloon,Snacks,2347,1643,84,27
+2026-10-20,2026,10,Tue,Kowloon,Household,2071,1491,74,24
+2026-10-20,2026,10,Tue,Kowloon,Fresh,2856,2142,102,33
+2026-10-20,2026,10,Tue,Hong Kong Island,Beverage,4148,2821,148,48
+2026-10-20,2026,10,Tue,Hong Kong Island,Snacks,2678,1875,96,31
+2026-10-20,2026,10,Tue,Hong Kong Island,Household,2232,1607,80,26
+2026-10-20,2026,10,Tue,Hong Kong Island,Fresh,3318,2488,118,39
+2026-10-20,2026,10,Tue,New Territories,Beverage,3487,2371,125,41
+2026-10-20,2026,10,Tue,New Territories,Snacks,2052,1436,73,24
+2026-10-20,2026,10,Tue,New Territories,Household,1737,1251,62,20
+2026-10-20,2026,10,Tue,New Territories,Fresh,2718,2038,97,32
+2026-10-21,2026,10,Wed,Kowloon,Beverage,2632,2106,94,31
+2026-10-21,2026,10,Wed,Kowloon,Snacks,2288,1602,82,27
+2026-10-21,2026,10,Wed,Kowloon,Household,1943,1399,69,23
+2026-10-21,2026,10,Wed,Kowloon,Fresh,2971,2228,106,35
+2026-10-21,2026,10,Wed,Hong Kong Island,Beverage,3975,2703,142,46
+2026-10-21,2026,10,Wed,Hong Kong Island,Snacks,2658,1861,95,31
+2026-10-21,2026,10,Wed,Hong Kong Island,Household,2378,1712,85,28
+2026-10-21,2026,10,Wed,Hong Kong Island,Fresh,3216,2412,115,37
+2026-10-21,2026,10,Wed,New Territories,Beverage,3428,2331,122,40
+2026-10-21,2026,10,Wed,New Territories,Snacks,1970,1379,70,23
+2026-10-21,2026,10,Wed,New Territories,Household,1691,1218,60,20
+2026-10-21,2026,10,Wed,New Territories,Fresh,2575,1931,92,30
+2026-10-22,2026,10,Thu,Kowloon,Beverage,5032,4026,180,59
+2026-10-22,2026,10,Thu,Kowloon,Snacks,2235,1564,80,26
+2026-10-22,2026,10,Thu,Kowloon,Household,1998,1439,71,23
+2026-10-22,2026,10,Thu,Kowloon,Fresh,2830,2122,101,33
+2026-10-22,2026,10,Thu,Hong Kong Island,Beverage,4098,2787,146,48
+2026-10-22,2026,10,Thu,Hong Kong Island,Snacks,2692,1884,96,31
+2026-10-22,2026,10,Thu,Hong Kong Island,Household,2258,1626,81,26
+2026-10-22,2026,10,Thu,Hong Kong Island,Fresh,3156,2367,113,37
+2026-10-22,2026,10,Thu,New Territories,Beverage,3483,2368,124,40
+2026-10-22,2026,10,Thu,New Territories,Snacks,2019,1413,72,23
+2026-10-22,2026,10,Thu,New Territories,Household,1770,1274,63,21
+2026-10-22,2026,10,Thu,New Territories,Fresh,2649,1987,95,31
+2026-10-23,2026,10,Fri,Kowloon,Beverage,5131,4105,183,60
+2026-10-23,2026,10,Fri,Kowloon,Snacks,2288,1602,82,27
+2026-10-23,2026,10,Fri,Kowloon,Household,2037,1467,73,24
+2026-10-23,2026,10,Fri,Kowloon,Fresh,2940,2205,105,34
+2026-10-23,2026,10,Fri,Hong Kong Island,Beverage,4148,2821,148,48
+2026-10-23,2026,10,Fri,Hong Kong Island,Snacks,2723,1906,97,32
+2026-10-23,2026,10,Fri,Hong Kong Island,Household,2235,1609,80,26
+2026-10-23,2026,10,Fri,Hong Kong Island,Fresh,3325,2494,119,39
+2026-10-23,2026,10,Fri,New Territories,Beverage,3342,2273,119,39
+2026-10-23,2026,10,Fri,New Territories,Snacks,1986,1390,71,23
+2026-10-23,2026,10,Fri,New Territories,Household,1749,1259,62,20
+2026-10-23,2026,10,Fri,New Territories,Fresh,2577,1933,92,30
+2026-10-24,2026,10,Sat,Kowloon,Beverage,5514,4411,197,64
+2026-10-24,2026,10,Sat,Kowloon,Snacks,2532,1772,90,29
+2026-10-24,2026,10,Sat,Kowloon,Household,2256,1624,81,26
+2026-10-24,2026,10,Sat,Kowloon,Fresh,3199,2399,114,37
+2026-10-24,2026,10,Sat,Hong Kong Island,Beverage,4490,3053,160,52
+2026-10-24,2026,10,Sat,Hong Kong Island,Snacks,2807,1965,100,33
+2026-10-24,2026,10,Sat,Hong Kong Island,Household,2482,1787,89,29
+2026-10-24,2026,10,Sat,Hong Kong Island,Fresh,3630,2722,130,42
+2026-10-24,2026,10,Sat,New Territories,Beverage,3808,2589,136,44
+2026-10-24,2026,10,Sat,New Territories,Snacks,2109,1476,75,25
+2026-10-24,2026,10,Sat,New Territories,Household,1866,1344,67,22
+2026-10-24,2026,10,Sat,New Territories,Fresh,2865,2149,102,33
+2026-10-25,2026,10,Sun,Kowloon,Beverage,5234,4187,187,61
+2026-10-25,2026,10,Sun,Kowloon,Snacks,2550,1785,91,30
+2026-10-25,2026,10,Sun,Kowloon,Household,2157,1553,77,25
+2026-10-25,2026,10,Sun,Kowloon,Fresh,3161,2371,113,37
+2026-10-25,2026,10,Sun,Hong Kong Island,Beverage,4196,2853,150,49
+2026-10-25,2026,10,Sun,Hong Kong Island,Snacks,2733,1913,98,32
+2026-10-25,2026,10,Sun,Hong Kong Island,Household,2497,1798,89,29
+2026-10-25,2026,10,Sun,Hong Kong Island,Fresh,3600,2700,129,42
+2026-10-25,2026,10,Sun,New Territories,Beverage,3775,2567,135,44
+2026-10-25,2026,10,Sun,New Territories,Snacks,2228,1560,80,26
+2026-10-25,2026,10,Sun,New Territories,Household,1783,1284,64,21
+2026-10-25,2026,10,Sun,New Territories,Fresh,2789,2092,100,32
+2026-10-26,2026,10,Mon,Kowloon,Beverage,5034,4027,180,59
+2026-10-26,2026,10,Mon,Kowloon,Snacks,2306,1614,82,27
+2026-10-26,2026,10,Mon,Kowloon,Household,2073,1493,74,24
+2026-10-26,2026,10,Mon,Kowloon,Fresh,2842,2132,102,33
+2026-10-26,2026,10,Mon,Hong Kong Island,Beverage,4029,2740,144,47
+2026-10-26,2026,10,Mon,Hong Kong Island,Snacks,2570,1799,92,30
+2026-10-26,2026,10,Mon,Hong Kong Island,Household,2384,1716,85,28
+2026-10-26,2026,10,Mon,Hong Kong Island,Fresh,3127,2345,112,36
+2026-10-26,2026,10,Mon,New Territories,Beverage,3403,2314,122,40
+2026-10-26,2026,10,Mon,New Territories,Snacks,1978,1385,71,23
+2026-10-26,2026,10,Mon,New Territories,Household,1652,1189,59,19
+2026-10-26,2026,10,Mon,New Territories,Fresh,2726,2044,97,32
