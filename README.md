@@ -1,6 +1,6 @@
 # Real-time-AI-Sales-Dashboards
 
-Uploading 31.10.2026_11.46.48_REC.mp4…
+https://github.com/user-attachments/assets/e7be0585-c28e-4fb6-b043-12edb2903f66
 
 A store manager asks one plain-language question about sales. The app plans a short investigation, runs read-only queries against a DuckDB table, and returns charts plus an evidence-backed first answer. It is an initial check, not a replacement for a governed BI report.
 
