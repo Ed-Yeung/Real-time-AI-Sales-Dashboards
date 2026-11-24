@@ -1,3 +1,4 @@
+[README (9).md](https://github.com/user-attachments/files/35335792/README.9.md)
 # Real-time AI Sales Dashboards
 
 A store manager asks one plain-language question about sales.
@@ -22,6 +23,8 @@ If the question needs a defined metric, the app uses the handbook formula.
 If it only asks what a handbook says, the app quotes the sentence and does not calculate.
 
 ## Flow
+
+![Sales check flow](docs/flow.jpg)
 
 ```text
 Question
