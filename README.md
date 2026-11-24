@@ -1,4 +1,3 @@
-[README (9).md](https://github.com/user-attachments/files/35335792/README.9.md)
 # Real-time AI Sales Dashboards
 
 A store manager asks one plain-language question about sales.
