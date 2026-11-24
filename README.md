@@ -1,5 +1,7 @@
 # Real-time AI Sales Dashboards
 
+<video src="demo_video.mp4" width="100%" controls></video>
+
 A store manager asks one plain-language question about sales.
 The app checks the handbook, runs the numbers from the table, and shows the chart, the rows, and the formula used.
 
