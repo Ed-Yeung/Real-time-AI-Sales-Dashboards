@@ -1,11 +1,15 @@
+
+https://github.com/user-attachments/assets/b7952504-9ee1-431d-be6c-fe49ba9f911d
+
+https://github.com/user-attachments/assets/513fdcac-63a5-4525-8832-1ba11a87c5ce
 # Real-time AI Sales Dashboards
 
-<video src="demo_video.mp4" width="100%" controls></video>
+[<video src="demo_video.mp4" width="100%" controls></video>](https://github.com/user-attachments/assets/6138dbff-c67e-4ab6-8dfd-dd706bd11099)
 
 A store manager asks one plain-language question about sales.
 The app checks the handbook, runs the numbers from the table, and shows the chart, the rows, and the formula used.
 
-It is an initial check, not a replacement for a governed BI report.
+It is an initial check, not a replacement for a governed BI report
 
 ## Why it helps
 
