@@ -23,7 +23,7 @@ If it only asks what a handbook says, the app quotes the sentence and does not c
 
 ## Flow
 
-![Sales check flow](docs/flow.jpg)
+<img width="1168" height="784" alt="clean-professional-architecture-flowchart (1)" src="https://github.com/user-attachments/assets/9320365d-c836-4500-8b8b-acaedf186b90" />
 
 ```text
 Question
