@@ -1,68 +1,90 @@
-# Real-time-AI-Sales-Dashboards
 
-https://github.com/user-attachments/assets/e7be0585-c28e-4fb6-b043-12edb2903f66
+Real-time AI Sales Dashboards
+A store manager asks one plain-language question about sales. The app checks the handbook, runs the numbers from the table, and shows the chart, the rows, and the formula used.
 
-A store manager asks one plain-language question about sales. The app plans a short investigation, runs read-only queries against a DuckDB table, and returns charts plus an evidence-backed first answer. It is an initial check, not a replacement for a governed BI report.
+It is an initial check, not a replacement for a governed BI report.
 
-## Use case
+Why it helps
+No SQL. A manager types the question in everyday language.
+Numbers come only from code against the sales table. The model does not add or invent figures.
+A handbook formula is traced to the file name and page. If two handbooks disagree, the app lists both and does not calculate.
+Business scenario
+Lane & Co. has stores in Kowloon, Hong Kong Island, and New Territories. Categories are Beverage, Snacks, Household, and Fresh.
 
-A non-technical store manager sees that a region looks weak and does not want to wait for the BI team before deciding what to look at. The manager types a question such as "Why is Kowloon down this week?" The app compares the latest seven days in the file with the seven days before them, then drills into the weakest region or category. The answer states the finding, the numbers behind it, the comparison, and what the data cannot explain.
+A manager sees that Kowloon looks weak this week and does not want to wait for the BI team. They ask why. The app compares this week with last week, then drills into the weakest category. If the question needs a defined metric, the app uses the handbook formula. If it only asks what a handbook says, the app quotes the sentence and does not calculate.
 
-The sample is a single retail chain, Lane & Co., with stores in Kowloon, Hong Kong Island, and New Territories. Categories are Beverage, Snacks, Household, and Fresh.
+Flow
+Question
+  → Follow-up? Keep filters and the previous formula
+  → Handbook match (vector search, top 5 passages)
+      document → quote and stop
+      conflict → list both formulas and stop
+      metric found → use only that formula
+      explore or not found → investigate
+  → LangGraph
+      explorer → planner
+          refused → writer → end
+          plan → coder
+              error → coder again
+              next step → advance → coder
+              done → writer → end
+Handbook matching and follow-up happen before LangGraph. LangGraph only runs an investigation. It does not decide whether the question is a document question.
 
-## Data
+Examples
+Investigate
 
-The page reads one DuckDB table, `sales`. There is no file upload.
+why is Kowloon down this week
+Compares this week with last week, then the weakest category. Returns a chart, a table, and Finding / Evidence / Comparison / Limit.
 
-| | |
-|---|---|
-| Grain | One row per day, region, and category |
-| Rows | 1,416 |
-| Dates | 1 Jul 2026 to 26 Oct 2026 |
-| Columns | `date`, `year`, `month`, `weekday`, `region`, `category`, `sales`, `cost`, `units`, `orders` |
+Handbook formula
 
-`data/sample_sales.csv` is only the source file. `python build_db.py` loads it into `data/sales.duckdb`. Rebuild only after the CSV changes.
+October Kowloon Beverage unit margin
+Uses the handbook definition, shows the formula and filters, then calculates. The sentence is copied from the handbook, with the file name and page.
 
-"This week" is not a fixed date and not the calendar week on the computer. The app takes the latest date in the table, uses that day and the six days before it, and compares those seven days with the previous seven.
+Ask the handbook
 
-## Data flow
+what does the handbook say about credit cards
+Quotes the handbook sentence. No chart and no calculation.
 
-Question, then Explorer, Planner, Coder, Execute, and Writer.
+Data
+One DuckDB table, sales.
 
-- Explorer reads `sales` and records the columns, category values, and the two week windows.
-- Planner turns the question into 1 to 3 steps, or refuses it.
-- Coder writes one Python script for the current step.
-- Execute runs that script against DuckDB and keeps the chart and the table.
-- The next step repeats Coder, up to 3 rounds. A failed script is retried once.
-- Writer writes the answer from those tables only.
+Grain	One row per day, region, and category
+Columns	date, year, month, weekday, region, category, sales, cost, units, orders
+Upload a CSV in the sidebar. The app cleans it, drops bad rows, derives year, month, and weekday, and loads sales. The sidebar shows how many rows were read, kept, and deleted.
 
-## Logic
+Upload one or more handbook PDFs. They are stored in data/handbooks/.
 
-Explorer does not call the model. It profiles the table in Python. Planner calls DeepSeek and must return a structured plan: purpose, columns, chart type, and one instruction per step. A ranking is one step. A "why" question is two or three. A question that needs a missing field, such as weather or staff, is refused.
+Stack
+Python, Streamlit, LangGraph, DeepSeek, Pydantic, DuckDB, Pandas, Plotly, pypdf, fastembed.
 
-Coder calls DeepSeek once per step and returns one Python script. The script may only `SELECT` from `sales`, using a read-only connection. Profit margin is `SUM(sales - cost) / SUM(sales)`, not the average of row-level ratios. Execute checks the script, runs it in a temporary folder, and reads `fig0.json` and `result.json`. Writer sees the result tables, not the source rows. It uses four headings: Finding, Evidence, Comparison, and Limit.
+How a question is answered
+Follow-up check. A follow-up keeps the previous filters and formula. A changed field is replaced.
+Handbook match. Pages are split into passages, embedded, and the top 5 are sent to the model. A copied sentence must appear in those passages.
+Route. A document question quotes and stops. A formula conflict lists both sides and stops. A defined metric is injected into the question.
+Explorer profiles the table. No model.
+Planner writes 1 to 3 steps using only columns in the profile.
+Coder writes a query. Python runs it against DuckDB. A failed step is retried once.
+Writer reads the result tables only and writes Finding, Evidence, Comparison, and Limit.
+Setup
+python -m pip install -r requirements.txt
+Put DEEPSEEK_API_KEY in a .env file next to app.py.
 
-The model chooses the comparison. Python executes it and checks the boundary.
+streamlit run app.py
+Upload a sales CSV, then any handbook PDFs. The first handbook question downloads the embedding model.
 
-## Stack
-
-Python, LangGraph, DeepSeek API, Pydantic, DuckDB, Pandas, Plotly, Streamlit.
-
-## Benefit
-
-- A non-technical user can start from a business question instead of a dashboard filter.
-- The investigation can take a second and third step, instead of answering from one query.
-- Calculations stay in DuckDB. The model does not invent the figures in the tables.
-- Each chart has the rows and the script that produced it.
-- The date window follows the latest row, so it stays correct after the table is rebuilt.
-
-## Limitations
-
-- One table and one demo dataset. It does not connect to a warehouse or support several users.
-- The sample is synthetic. The Kowloon beverage drop is planted so the flow can be demonstrated.
-- At most three rounds, and one retry per script. A bad script ends the investigation early.
-- The answer is only as good as the query the model writes. There is no certified metric catalog.
-- "This week" means the last seven dates in the file, not a business calendar week.
-- The writer is instructed to quote only returned numbers, but it can still phrase a comparison poorly.
-- Questions about causes outside the table, such as rent, staff, or promotion spend, cannot be answered.
-- Nothing is saved. Refreshing the page clears the result.
+Tests
+Question or action	Expected
+Upload a CSV with bad rows	Sidebar shows read, kept, and deleted
+why is Kowloon down this week	Chart and table, no handbook block
+what is unit margin	Quote from the margins handbook, with file and page
+what does the handbook say about credit cards	Quote from the banking handbook
+A metric missing from every handbook	Labeled not in the handbook; formula, filters, and groups shown
+Same metric, two different formulas	Conflict. No calculation
+Follow-up what about cost	Same filters, column changed to cost
+Limits
+This is a first check, not an official performance number.
+Chat history is kept for the open page only.
+The model can plan and quote. It cannot invent a column that is not in the table.
+Grok 已完成回覆
+RAG 內部問答程式開發 - Grok
